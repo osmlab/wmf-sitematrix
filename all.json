@@ -7144,8 +7144,7 @@
         {
             "url": "https://wikitech.wikimedia.org",
             "dbname": "labswiki",
-            "code": "labs",
-            "fishbowl": ""
+            "code": "labs"
         },
         {
             "url": "https://legalteam.wikimedia.org",
