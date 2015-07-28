@@ -14,14 +14,14 @@
                 "url": "https://aa.wiktionary.org",
                 "dbname": "aawiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia",
+                "sitename": "Wiktionary",
                 "closed": ""
             },
             {
                 "url": "https://aa.wikibooks.org",
                 "dbname": "aawikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia",
+                "sitename": "Wikibooks",
                 "closed": ""
             }
         ],
@@ -41,7 +41,7 @@
                 "url": "https://ab.wiktionary.org",
                 "dbname": "abwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia",
+                "sitename": "Wiktionary",
                 "closed": ""
             }
         ],
@@ -74,19 +74,19 @@
                 "url": "https://af.wiktionary.org",
                 "dbname": "afwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             },
             {
                 "url": "https://af.wikibooks.org",
                 "dbname": "afwikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia"
+                "sitename": "Wikibooks"
             },
             {
                 "url": "https://af.wikiquote.org",
                 "dbname": "afwikiquote",
                 "code": "wikiquote",
-                "sitename": "Wikipedia"
+                "sitename": "Wikiquote"
             }
         ],
         "localname": "Afrikaans"
@@ -105,14 +105,14 @@
                 "url": "https://ak.wiktionary.org",
                 "dbname": "akwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia",
+                "sitename": "Wiktionary",
                 "closed": ""
             },
             {
                 "url": "https://ak.wikibooks.org",
                 "dbname": "akwikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia",
+                "sitename": "Wikibooks",
                 "closed": ""
             }
         ],
@@ -132,21 +132,21 @@
                 "url": "https://als.wiktionary.org",
                 "dbname": "alswiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia",
+                "sitename": "Wiktionary",
                 "closed": ""
             },
             {
                 "url": "https://als.wikibooks.org",
                 "dbname": "alswikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia",
+                "sitename": "Wikibooks",
                 "closed": ""
             },
             {
                 "url": "https://als.wikiquote.org",
                 "dbname": "alswikiquote",
                 "code": "wikiquote",
-                "sitename": "Wikipedia",
+                "sitename": "Wikiquote",
                 "closed": ""
             }
         ],
@@ -166,13 +166,13 @@
                 "url": "https://am.wiktionary.org",
                 "dbname": "amwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             },
             {
                 "url": "https://am.wikiquote.org",
                 "dbname": "amwikiquote",
                 "code": "wikiquote",
-                "sitename": "Wikipedia",
+                "sitename": "Wikiquote",
                 "closed": ""
             }
         ],
@@ -192,7 +192,7 @@
                 "url": "https://an.wiktionary.org",
                 "dbname": "anwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             }
         ],
         "localname": "Aragonese"
@@ -217,14 +217,14 @@
                 "url": "https://ang.wikibooks.org",
                 "dbname": "angwikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia",
+                "sitename": "Wikibooks",
                 "closed": ""
             },
             {
                 "url": "https://ang.wikiquote.org",
                 "dbname": "angwikiquote",
                 "code": "wikiquote",
-                "sitename": "Wikipedia",
+                "sitename": "Wikiquote",
                 "closed": ""
             },
             {
@@ -326,14 +326,14 @@
                 "url": "https://as.wiktionary.org",
                 "dbname": "aswiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia",
+                "sitename": "Wiktionary",
                 "closed": ""
             },
             {
                 "url": "https://as.wikibooks.org",
                 "dbname": "aswikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia",
+                "sitename": "Wikibooks",
                 "closed": ""
             },
             {
@@ -365,14 +365,14 @@
                 "url": "https://ast.wikibooks.org",
                 "dbname": "astwikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia",
+                "sitename": "Wikibooks",
                 "closed": ""
             },
             {
                 "url": "https://ast.wikiquote.org",
                 "dbname": "astwikiquote",
                 "code": "wikiquote",
-                "sitename": "Wikipedia",
+                "sitename": "Wikiquote",
                 "closed": ""
             }
         ],
@@ -392,7 +392,7 @@
                 "url": "https://av.wiktionary.org",
                 "dbname": "avwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia",
+                "sitename": "Wiktionary",
                 "closed": ""
             }
         ],
@@ -412,13 +412,13 @@
                 "url": "https://ay.wiktionary.org",
                 "dbname": "aywiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             },
             {
                 "url": "https://ay.wikibooks.org",
                 "dbname": "aywikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia",
+                "sitename": "Wikibooks",
                 "closed": ""
             }
         ],
@@ -438,7 +438,7 @@
                 "url": "https://az.wiktionary.org",
                 "dbname": "azwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             },
             {
                 "url": "https://az.wikibooks.org",
@@ -488,7 +488,7 @@
                 "url": "https://ba.wikibooks.org",
                 "dbname": "bawikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia",
+                "sitename": "Wikibooks",
                 "closed": ""
             }
         ],
@@ -553,13 +553,13 @@
                 "url": "https://be.wikibooks.org",
                 "dbname": "bewikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia"
+                "sitename": "Wikibooks"
             },
             {
                 "url": "https://be.wikiquote.org",
                 "dbname": "bewikiquote",
                 "code": "wikiquote",
-                "sitename": "Wikipedia"
+                "sitename": "Wikiquote"
             },
             {
                 "url": "https://be.wikisource.org",
@@ -640,7 +640,7 @@
                 "url": "https://bh.wiktionary.org",
                 "dbname": "bhwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia",
+                "sitename": "Wiktionary",
                 "closed": ""
             }
         ],
@@ -660,14 +660,14 @@
                 "url": "https://bi.wiktionary.org",
                 "dbname": "biwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia",
+                "sitename": "Wiktionary",
                 "closed": ""
             },
             {
                 "url": "https://bi.wikibooks.org",
                 "dbname": "biwikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia",
+                "sitename": "Wikibooks",
                 "closed": ""
             }
         ],
@@ -700,21 +700,21 @@
                 "url": "https://bm.wiktionary.org",
                 "dbname": "bmwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia",
+                "sitename": "Wiktionary",
                 "closed": ""
             },
             {
                 "url": "https://bm.wikibooks.org",
                 "dbname": "bmwikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia",
+                "sitename": "Wikibooks",
                 "closed": ""
             },
             {
                 "url": "https://bm.wikiquote.org",
                 "dbname": "bmwikiquote",
                 "code": "wikiquote",
-                "sitename": "Wikipedia",
+                "sitename": "Wikiquote",
                 "closed": ""
             }
         ],
@@ -765,14 +765,14 @@
                 "url": "https://bo.wiktionary.org",
                 "dbname": "bowiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia",
+                "sitename": "Wiktionary",
                 "closed": ""
             },
             {
                 "url": "https://bo.wikibooks.org",
                 "dbname": "bowikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia",
+                "sitename": "Wikibooks",
                 "closed": ""
             }
         ],
@@ -1000,14 +1000,14 @@
                 "url": "https://ch.wiktionary.org",
                 "dbname": "chwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia",
+                "sitename": "Wiktionary",
                 "closed": ""
             },
             {
                 "url": "https://ch.wikibooks.org",
                 "dbname": "chwikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia",
+                "sitename": "Wikibooks",
                 "closed": ""
             }
         ],
@@ -1041,7 +1041,7 @@
                 "url": "https://chr.wiktionary.org",
                 "dbname": "chrwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             }
         ],
         "localname": "Cherokee"
@@ -1086,20 +1086,20 @@
                 "url": "https://co.wiktionary.org",
                 "dbname": "cowiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             },
             {
                 "url": "https://co.wikibooks.org",
                 "dbname": "cowikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia",
+                "sitename": "Wikibooks",
                 "closed": ""
             },
             {
                 "url": "https://co.wikiquote.org",
                 "dbname": "cowikiquote",
                 "code": "wikiquote",
-                "sitename": "Wikipedia",
+                "sitename": "Wikiquote",
                 "closed": ""
             }
         ],
@@ -1119,14 +1119,14 @@
                 "url": "https://cr.wiktionary.org",
                 "dbname": "crwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia",
+                "sitename": "Wiktionary",
                 "closed": ""
             },
             {
                 "url": "https://cr.wikiquote.org",
                 "dbname": "crwikiquote",
                 "code": "wikiquote",
-                "sitename": "Wikipedia",
+                "sitename": "Wikiquote",
                 "closed": ""
             }
         ],
@@ -1208,7 +1208,7 @@
                 "url": "https://csb.wiktionary.org",
                 "dbname": "csbwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             }
         ],
         "localname": "Kashubian"
@@ -1240,7 +1240,7 @@
                 "url": "https://cv.wikibooks.org",
                 "dbname": "cvwikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia"
+                "sitename": "Wikibooks"
             }
         ],
         "localname": "Chuvash"
@@ -1271,7 +1271,7 @@
                 "url": "https://cy.wikiquote.org",
                 "dbname": "cywikiquote",
                 "code": "wikiquote",
-                "sitename": "Wikipedia"
+                "sitename": "Wikiquote"
             },
             {
                 "url": "https://cy.wikisource.org",
@@ -1296,25 +1296,25 @@
                 "url": "https://da.wiktionary.org",
                 "dbname": "dawiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             },
             {
                 "url": "https://da.wikibooks.org",
                 "dbname": "dawikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia"
+                "sitename": "Wikibooks"
             },
             {
                 "url": "https://da.wikiquote.org",
                 "dbname": "dawikiquote",
                 "code": "wikiquote",
-                "sitename": "Wikipedia"
+                "sitename": "Wikiquote"
             },
             {
                 "url": "https://da.wikisource.org",
                 "dbname": "dawikisource",
                 "code": "wikisource",
-                "sitename": "Wikipedia"
+                "sitename": "Wikisource"
             }
         ],
         "localname": "Danish"
@@ -1333,43 +1333,43 @@
                 "url": "https://de.wiktionary.org",
                 "dbname": "dewiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             },
             {
                 "url": "https://de.wikibooks.org",
                 "dbname": "dewikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia"
+                "sitename": "Wikibooks"
             },
             {
                 "url": "https://de.wikinews.org",
                 "dbname": "dewikinews",
                 "code": "wikinews",
-                "sitename": "Wikipedia"
+                "sitename": "Wikinews"
             },
             {
                 "url": "https://de.wikiquote.org",
                 "dbname": "dewikiquote",
                 "code": "wikiquote",
-                "sitename": "Wikipedia"
+                "sitename": "Wikiquote"
             },
             {
                 "url": "https://de.wikisource.org",
                 "dbname": "dewikisource",
                 "code": "wikisource",
-                "sitename": "Wikipedia"
+                "sitename": "Wikisource"
             },
             {
                 "url": "https://de.wikiversity.org",
                 "dbname": "dewikiversity",
                 "code": "wikiversity",
-                "sitename": "Wikipedia"
+                "sitename": "Wikiversity"
             },
             {
                 "url": "https://de.wikivoyage.org",
                 "dbname": "dewikivoyage",
                 "code": "wikivoyage",
-                "sitename": "Wikipedia"
+                "sitename": "Wikivoyage"
             }
         ],
         "localname": "German"
@@ -1433,7 +1433,7 @@
                 "url": "https://dz.wiktionary.org",
                 "dbname": "dzwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia",
+                "sitename": "Wiktionary",
                 "closed": ""
             }
         ],
@@ -1534,43 +1534,43 @@
                 "url": "https://en.wiktionary.org",
                 "dbname": "enwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             },
             {
                 "url": "https://en.wikibooks.org",
                 "dbname": "enwikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia"
+                "sitename": "Wikibooks"
             },
             {
                 "url": "https://en.wikinews.org",
                 "dbname": "enwikinews",
                 "code": "wikinews",
-                "sitename": "Wikipedia"
+                "sitename": "Wikinews"
             },
             {
                 "url": "https://en.wikiquote.org",
                 "dbname": "enwikiquote",
                 "code": "wikiquote",
-                "sitename": "Wikipedia"
+                "sitename": "Wikiquote"
             },
             {
                 "url": "https://en.wikisource.org",
                 "dbname": "enwikisource",
                 "code": "wikisource",
-                "sitename": "Wikipedia"
+                "sitename": "Wikisource"
             },
             {
                 "url": "https://en.wikiversity.org",
                 "dbname": "enwikiversity",
                 "code": "wikiversity",
-                "sitename": "Wikipedia"
+                "sitename": "Wikiversity"
             },
             {
                 "url": "https://en.wikivoyage.org",
                 "dbname": "enwikivoyage",
                 "code": "wikivoyage",
-                "sitename": "Wikipedia"
+                "sitename": "Wikivoyage"
             }
         ],
         "localname": "English"
@@ -1650,13 +1650,13 @@
                 "url": "https://es.wikiquote.org",
                 "dbname": "eswikiquote",
                 "code": "wikiquote",
-                "sitename": "Wikipedia"
+                "sitename": "Wikiquote"
             },
             {
                 "url": "https://es.wikisource.org",
                 "dbname": "eswikisource",
                 "code": "wikisource",
-                "sitename": "Wikipedia"
+                "sitename": "Wikisource"
             },
             {
                 "url": "https://es.wikiversity.org",
@@ -1724,19 +1724,19 @@
                 "url": "https://eu.wiktionary.org",
                 "dbname": "euwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             },
             {
                 "url": "https://eu.wikibooks.org",
                 "dbname": "euwikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia"
+                "sitename": "Wikibooks"
             },
             {
                 "url": "https://eu.wikiquote.org",
                 "dbname": "euwikiquote",
                 "code": "wikiquote",
-                "sitename": "Wikipedia"
+                "sitename": "Wikiquote"
             }
         ],
         "localname": "Basque"
@@ -1892,7 +1892,7 @@
                 "url": "https://fj.wiktionary.org",
                 "dbname": "fjwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             }
         ],
         "localname": "Fijian"
@@ -1911,7 +1911,7 @@
                 "url": "https://fo.wiktionary.org",
                 "dbname": "fowiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             },
             {
                 "url": "https://fo.wikisource.org",
@@ -1948,19 +1948,19 @@
                 "url": "https://fr.wikinews.org",
                 "dbname": "frwikinews",
                 "code": "wikinews",
-                "sitename": "Wikipedia"
+                "sitename": "Wikinews"
             },
             {
                 "url": "https://fr.wikiquote.org",
                 "dbname": "frwikiquote",
                 "code": "wikiquote",
-                "sitename": "Wikipedia"
+                "sitename": "Wikiquote"
             },
             {
                 "url": "https://fr.wikisource.org",
                 "dbname": "frwikisource",
                 "code": "wikisource",
-                "sitename": "Wikipedia"
+                "sitename": "Wikisource"
             },
             {
                 "url": "https://fr.wikiversity.org",
@@ -1972,7 +1972,7 @@
                 "url": "https://fr.wikivoyage.org",
                 "dbname": "frwikivoyage",
                 "code": "wikivoyage",
-                "sitename": "Wikipedia"
+                "sitename": "Wikivoyage"
             }
         ],
         "localname": "French"
@@ -2030,13 +2030,13 @@
                 "url": "https://fy.wiktionary.org",
                 "dbname": "fywiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             },
             {
                 "url": "https://fy.wikibooks.org",
                 "dbname": "fywikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia"
+                "sitename": "Wikibooks"
             }
         ],
         "localname": "Western Frisian"
@@ -2114,7 +2114,7 @@
                 "url": "https://gd.wiktionary.org",
                 "dbname": "gdwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             }
         ],
         "localname": "Scottish Gaelic"
@@ -2133,25 +2133,25 @@
                 "url": "https://gl.wiktionary.org",
                 "dbname": "glwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             },
             {
                 "url": "https://gl.wikibooks.org",
                 "dbname": "glwikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia"
+                "sitename": "Wikibooks"
             },
             {
                 "url": "https://gl.wikiquote.org",
                 "dbname": "glwikiquote",
                 "code": "wikiquote",
-                "sitename": "Wikipedia"
+                "sitename": "Wikiquote"
             },
             {
                 "url": "https://gl.wikisource.org",
                 "dbname": "glwikisource",
                 "code": "wikisource",
-                "sitename": "Wikipedia"
+                "sitename": "Wikisource"
             }
         ],
         "localname": "Galician"
@@ -2183,13 +2183,13 @@
                 "url": "https://gn.wiktionary.org",
                 "dbname": "gnwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             },
             {
                 "url": "https://gn.wikibooks.org",
                 "dbname": "gnwikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia",
+                "sitename": "Wikibooks",
                 "closed": ""
             }
         ],
@@ -2222,7 +2222,7 @@
                 "url": "https://got.wikibooks.org",
                 "dbname": "gotwikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia",
+                "sitename": "Wikibooks",
                 "closed": ""
             }
         ],
@@ -2248,14 +2248,14 @@
                 "url": "https://gu.wikibooks.org",
                 "dbname": "guwikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia",
+                "sitename": "Wikibooks",
                 "closed": ""
             },
             {
                 "url": "https://gu.wikiquote.org",
                 "dbname": "guwikiquote",
                 "code": "wikiquote",
-                "sitename": "Wikipedia"
+                "sitename": "Wikiquote"
             },
             {
                 "url": "https://gu.wikisource.org",
@@ -2280,7 +2280,7 @@
                 "url": "https://gv.wiktionary.org",
                 "dbname": "gvwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             }
         ],
         "localname": "Manx"
@@ -2299,7 +2299,7 @@
                 "url": "https://ha.wiktionary.org",
                 "dbname": "hawiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             }
         ],
         "localname": "Hausa"
@@ -2399,13 +2399,13 @@
                 "url": "https://hi.wikibooks.org",
                 "dbname": "hiwikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia"
+                "sitename": "Wikibooks"
             },
             {
                 "url": "https://hi.wikiquote.org",
                 "dbname": "hiwikiquote",
                 "code": "wikiquote",
-                "sitename": "Wikipedia"
+                "sitename": "Wikiquote"
             }
         ],
         "localname": "Hindi"
@@ -2451,13 +2451,13 @@
                 "url": "https://hr.wiktionary.org",
                 "dbname": "hrwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             },
             {
                 "url": "https://hr.wikibooks.org",
                 "dbname": "hrwikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia"
+                "sitename": "Wikibooks"
             },
             {
                 "url": "https://hr.wikiquote.org",
@@ -2628,7 +2628,7 @@
                 "url": "https://ia.wikibooks.org",
                 "dbname": "iawikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia"
+                "sitename": "Wikibooks"
             }
         ],
         "localname": "Interlingua"
@@ -2647,7 +2647,7 @@
                 "url": "https://id.wiktionary.org",
                 "dbname": "idwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             },
             {
                 "url": "https://id.wikibooks.org",
@@ -2659,13 +2659,13 @@
                 "url": "https://id.wikiquote.org",
                 "dbname": "idwikiquote",
                 "code": "wikiquote",
-                "sitename": "Wikipedia"
+                "sitename": "Wikiquote"
             },
             {
                 "url": "https://id.wikisource.org",
                 "dbname": "idwikisource",
                 "code": "wikisource",
-                "sitename": "Wikipedia"
+                "sitename": "Wikisource"
             }
         ],
         "localname": "Indonesian"
@@ -2684,13 +2684,13 @@
                 "url": "https://ie.wiktionary.org",
                 "dbname": "iewiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             },
             {
                 "url": "https://ie.wikibooks.org",
                 "dbname": "iewikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia",
+                "sitename": "Wikibooks",
                 "closed": ""
             }
         ],
@@ -2737,7 +2737,7 @@
                 "url": "https://ik.wiktionary.org",
                 "dbname": "ikwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia",
+                "sitename": "Wiktionary",
                 "closed": ""
             }
         ],
@@ -2832,7 +2832,7 @@
                 "url": "https://it.wikibooks.org",
                 "dbname": "itwikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia"
+                "sitename": "Wikibooks"
             },
             {
                 "url": "https://it.wikinews.org",
@@ -2844,13 +2844,13 @@
                 "url": "https://it.wikiquote.org",
                 "dbname": "itwikiquote",
                 "code": "wikiquote",
-                "sitename": "Wikipedia"
+                "sitename": "Wikiquote"
             },
             {
                 "url": "https://it.wikisource.org",
                 "dbname": "itwikisource",
                 "code": "wikisource",
-                "sitename": "Wikipedia"
+                "sitename": "Wikisource"
             },
             {
                 "url": "https://it.wikiversity.org",
@@ -2862,7 +2862,7 @@
                 "url": "https://it.wikivoyage.org",
                 "dbname": "itwikivoyage",
                 "code": "wikivoyage",
-                "sitename": "Wikipedia"
+                "sitename": "Wikivoyage"
             }
         ],
         "localname": "Italian"
@@ -2881,7 +2881,7 @@
                 "url": "https://iu.wiktionary.org",
                 "dbname": "iuwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             }
         ],
         "localname": "Inuktitut"
@@ -2900,13 +2900,13 @@
                 "url": "https://ja.wiktionary.org",
                 "dbname": "jawiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             },
             {
                 "url": "https://ja.wikibooks.org",
                 "dbname": "jawikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia"
+                "sitename": "Wikibooks"
             },
             {
                 "url": "https://ja.wikinews.org",
@@ -2918,13 +2918,13 @@
                 "url": "https://ja.wikiquote.org",
                 "dbname": "jawikiquote",
                 "code": "wikiquote",
-                "sitename": "Wikipedia"
+                "sitename": "Wikiquote"
             },
             {
                 "url": "https://ja.wikisource.org",
                 "dbname": "jawikisource",
                 "code": "wikisource",
-                "sitename": "Wikipedia"
+                "sitename": "Wikisource"
             },
             {
                 "url": "https://ja.wikiversity.org",
@@ -2949,7 +2949,7 @@
                 "url": "https://jbo.wiktionary.org",
                 "dbname": "jbowiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             }
         ],
         "localname": "Lojban"
@@ -2968,7 +2968,7 @@
                 "url": "https://jv.wiktionary.org",
                 "dbname": "jvwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             }
         ],
         "localname": "Javanese"
@@ -3129,7 +3129,7 @@
                 "url": "https://kl.wiktionary.org",
                 "dbname": "klwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             }
         ],
         "localname": "Kalaallisut"
@@ -3148,13 +3148,13 @@
                 "url": "https://km.wiktionary.org",
                 "dbname": "kmwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             },
             {
                 "url": "https://km.wikibooks.org",
                 "dbname": "kmwikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia"
+                "sitename": "Wikibooks"
             }
         ],
         "localname": "Khmer"
@@ -3179,20 +3179,20 @@
                 "url": "https://kn.wikibooks.org",
                 "dbname": "knwikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia",
+                "sitename": "Wikibooks",
                 "closed": ""
             },
             {
                 "url": "https://kn.wikiquote.org",
                 "dbname": "knwikiquote",
                 "code": "wikiquote",
-                "sitename": "Wikipedia"
+                "sitename": "Wikiquote"
             },
             {
                 "url": "https://kn.wikisource.org",
                 "dbname": "knwikisource",
                 "code": "wikisource",
-                "sitename": "Wikipedia"
+                "sitename": "Wikisource"
             }
         ],
         "localname": "Kannada"
@@ -3274,7 +3274,7 @@
                 "url": "https://kr.wikiquote.org",
                 "dbname": "krwikiquote",
                 "code": "wikiquote",
-                "sitename": "Wikipedia",
+                "sitename": "Wikiquote",
                 "closed": ""
             }
         ],
@@ -3307,20 +3307,20 @@
                 "url": "https://ks.wiktionary.org",
                 "dbname": "kswiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             },
             {
                 "url": "https://ks.wikibooks.org",
                 "dbname": "kswikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia",
+                "sitename": "Wikibooks",
                 "closed": ""
             },
             {
                 "url": "https://ks.wikiquote.org",
                 "dbname": "kswikiquote",
                 "code": "wikiquote",
-                "sitename": "Wikipedia",
+                "sitename": "Wikiquote",
                 "closed": ""
             }
         ],
@@ -3353,19 +3353,19 @@
                 "url": "https://ku.wiktionary.org",
                 "dbname": "kuwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             },
             {
                 "url": "https://ku.wikibooks.org",
                 "dbname": "kuwikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia"
+                "sitename": "Wikibooks"
             },
             {
                 "url": "https://ku.wikiquote.org",
                 "dbname": "kuwikiquote",
                 "code": "wikiquote",
-                "sitename": "Wikipedia"
+                "sitename": "Wikiquote"
             }
         ],
         "localname": "Kurdish"
@@ -3397,13 +3397,13 @@
                 "url": "https://kw.wiktionary.org",
                 "dbname": "kwwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             },
             {
                 "url": "https://kw.wikiquote.org",
                 "dbname": "kwwikiquote",
                 "code": "wikiquote",
-                "sitename": "Wikipedia",
+                "sitename": "Wikiquote",
                 "closed": ""
             }
         ],
@@ -3423,19 +3423,19 @@
                 "url": "https://ky.wiktionary.org",
                 "dbname": "kywiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             },
             {
                 "url": "https://ky.wikibooks.org",
                 "dbname": "kywikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia"
+                "sitename": "Wikibooks"
             },
             {
                 "url": "https://ky.wikiquote.org",
                 "dbname": "kywikiquote",
                 "code": "wikiquote",
-                "sitename": "Wikipedia"
+                "sitename": "Wikiquote"
             }
         ],
         "localname": "Kyrgyz"
@@ -3472,7 +3472,7 @@
                 "url": "https://la.wikisource.org",
                 "dbname": "lawikisource",
                 "code": "wikisource",
-                "sitename": "Wikipedia"
+                "sitename": "Wikisource"
             }
         ],
         "localname": "Latin"
@@ -3510,14 +3510,14 @@
                 "url": "https://lb.wikibooks.org",
                 "dbname": "lbwikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia",
+                "sitename": "Wikibooks",
                 "closed": ""
             },
             {
                 "url": "https://lb.wikiquote.org",
                 "dbname": "lbwikiquote",
                 "code": "wikiquote",
-                "sitename": "Wikipedia",
+                "sitename": "Wikiquote",
                 "closed": ""
             }
         ],
@@ -3576,7 +3576,7 @@
                 "url": "https://li.wiktionary.org",
                 "dbname": "liwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             },
             {
                 "url": "https://li.wikibooks.org",
@@ -3588,7 +3588,7 @@
                 "url": "https://li.wikiquote.org",
                 "dbname": "liwikiquote",
                 "code": "wikiquote",
-                "sitename": "Wikipedia"
+                "sitename": "Wikiquote"
             },
             {
                 "url": "https://li.wikisource.org",
@@ -3639,13 +3639,13 @@
                 "url": "https://ln.wiktionary.org",
                 "dbname": "lnwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             },
             {
                 "url": "https://ln.wikibooks.org",
                 "dbname": "lnwikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia",
+                "sitename": "Wikibooks",
                 "closed": ""
             }
         ],
@@ -3665,7 +3665,7 @@
                 "url": "https://lo.wiktionary.org",
                 "dbname": "lowiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             }
         ],
         "localname": "Lao"
@@ -3703,13 +3703,13 @@
                 "url": "https://lt.wikibooks.org",
                 "dbname": "ltwikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia"
+                "sitename": "Wikibooks"
             },
             {
                 "url": "https://lt.wikiquote.org",
                 "dbname": "ltwikiquote",
                 "code": "wikiquote",
-                "sitename": "Wikipedia"
+                "sitename": "Wikiquote"
             },
             {
                 "url": "https://lt.wikisource.org",
@@ -3747,13 +3747,13 @@
                 "url": "https://lv.wiktionary.org",
                 "dbname": "lvwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             },
             {
                 "url": "https://lv.wikibooks.org",
                 "dbname": "lvwikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia",
+                "sitename": "Wikibooks",
                 "closed": ""
             }
         ],
@@ -3812,13 +3812,13 @@
                 "url": "https://mg.wiktionary.org",
                 "dbname": "mgwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             },
             {
                 "url": "https://mg.wikibooks.org",
                 "dbname": "mgwikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia"
+                "sitename": "Wikibooks"
             }
         ],
         "localname": "Malagasy"
@@ -3838,7 +3838,7 @@
                 "url": "https://mh.wiktionary.org",
                 "dbname": "mhwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia",
+                "sitename": "Wiktionary",
                 "closed": ""
             }
         ],
@@ -3871,13 +3871,13 @@
                 "url": "https://mi.wiktionary.org",
                 "dbname": "miwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             },
             {
                 "url": "https://mi.wikibooks.org",
                 "dbname": "miwikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia",
+                "sitename": "Wikibooks",
                 "closed": ""
             }
         ],
@@ -3910,19 +3910,19 @@
                 "url": "https://mk.wiktionary.org",
                 "dbname": "mkwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             },
             {
                 "url": "https://mk.wikibooks.org",
                 "dbname": "mkwikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia"
+                "sitename": "Wikibooks"
             },
             {
                 "url": "https://mk.wikisource.org",
                 "dbname": "mkwikisource",
                 "code": "wikisource",
-                "sitename": "Wikipedia"
+                "sitename": "Wikisource"
             }
         ],
         "localname": "Macedonian"
@@ -3978,13 +3978,13 @@
                 "url": "https://mn.wiktionary.org",
                 "dbname": "mnwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             },
             {
                 "url": "https://mn.wikibooks.org",
                 "dbname": "mnwikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia",
+                "sitename": "Wikibooks",
                 "closed": ""
             }
         ],
@@ -4005,7 +4005,7 @@
                 "url": "https://mo.wiktionary.org",
                 "dbname": "mowiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia",
+                "sitename": "Wiktionary",
                 "closed": ""
             }
         ],
@@ -4025,19 +4025,19 @@
                 "url": "https://mr.wiktionary.org",
                 "dbname": "mrwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             },
             {
                 "url": "https://mr.wikibooks.org",
                 "dbname": "mrwikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia"
+                "sitename": "Wikibooks"
             },
             {
                 "url": "https://mr.wikiquote.org",
                 "dbname": "mrwikiquote",
                 "code": "wikiquote",
-                "sitename": "Wikipedia"
+                "sitename": "Wikiquote"
             },
             {
                 "url": "https://mr.wikisource.org",
@@ -4075,13 +4075,13 @@
                 "url": "https://ms.wiktionary.org",
                 "dbname": "mswiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             },
             {
                 "url": "https://ms.wikibooks.org",
                 "dbname": "mswikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia"
+                "sitename": "Wikibooks"
             }
         ],
         "localname": "Malay"
@@ -4146,13 +4146,13 @@
                 "url": "https://my.wiktionary.org",
                 "dbname": "mywiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             },
             {
                 "url": "https://my.wikibooks.org",
                 "dbname": "mywikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia",
+                "sitename": "Wikibooks",
                 "closed": ""
             }
         ],
@@ -4198,20 +4198,20 @@
                 "url": "https://na.wiktionary.org",
                 "dbname": "nawiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             },
             {
                 "url": "https://na.wikibooks.org",
                 "dbname": "nawikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia",
+                "sitename": "Wikibooks",
                 "closed": ""
             },
             {
                 "url": "https://na.wikiquote.org",
                 "dbname": "nawikiquote",
                 "code": "wikiquote",
-                "sitename": "Wikipedia",
+                "sitename": "Wikiquote",
                 "closed": ""
             }
         ],
@@ -4231,13 +4231,13 @@
                 "url": "https://nah.wiktionary.org",
                 "dbname": "nahwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             },
             {
                 "url": "https://nah.wikibooks.org",
                 "dbname": "nahwikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia",
+                "sitename": "Wikibooks",
                 "closed": ""
             }
         ],
@@ -4270,20 +4270,20 @@
                 "url": "https://nds.wiktionary.org",
                 "dbname": "ndswiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             },
             {
                 "url": "https://nds.wikibooks.org",
                 "dbname": "ndswikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia",
+                "sitename": "Wikibooks",
                 "closed": ""
             },
             {
                 "url": "https://nds.wikiquote.org",
                 "dbname": "ndswikiquote",
                 "code": "wikiquote",
-                "sitename": "Wikipedia",
+                "sitename": "Wikiquote",
                 "closed": ""
             }
         ],
@@ -4316,13 +4316,13 @@
                 "url": "https://ne.wiktionary.org",
                 "dbname": "newiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             },
             {
                 "url": "https://ne.wikibooks.org",
                 "dbname": "newikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia"
+                "sitename": "Wikibooks"
             }
         ],
         "localname": "Nepali"
@@ -4374,32 +4374,32 @@
                 "url": "https://nl.wikibooks.org",
                 "dbname": "nlwikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia"
+                "sitename": "Wikibooks"
             },
             {
                 "url": "https://nl.wikinews.org",
                 "dbname": "nlwikinews",
                 "code": "wikinews",
-                "sitename": "Wikipedia",
+                "sitename": "Wikinews",
                 "closed": ""
             },
             {
                 "url": "https://nl.wikiquote.org",
                 "dbname": "nlwikiquote",
                 "code": "wikiquote",
-                "sitename": "Wikipedia"
+                "sitename": "Wikiquote"
             },
             {
                 "url": "https://nl.wikisource.org",
                 "dbname": "nlwikisource",
                 "code": "wikisource",
-                "sitename": "Wikipedia"
+                "sitename": "Wikisource"
             },
             {
                 "url": "https://nl.wikivoyage.org",
                 "dbname": "nlwikivoyage",
                 "code": "wikivoyage",
-                "sitename": "Wikipedia"
+                "sitename": "Wikivoyage"
             }
         ],
         "localname": "Dutch"
@@ -4418,13 +4418,13 @@
                 "url": "https://nn.wiktionary.org",
                 "dbname": "nnwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             },
             {
                 "url": "https://nn.wikiquote.org",
                 "dbname": "nnwikiquote",
                 "code": "wikiquote",
-                "sitename": "Wikipedia"
+                "sitename": "Wikiquote"
             }
         ],
         "localname": "Norwegian Nynorsk"
@@ -4443,7 +4443,7 @@
                 "url": "https://no.wiktionary.org",
                 "dbname": "nowiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             },
             {
                 "url": "https://no.wikibooks.org",
@@ -4461,7 +4461,7 @@
                 "url": "https://no.wikiquote.org",
                 "dbname": "nowikiquote",
                 "code": "wikiquote",
-                "sitename": "Wikipedia"
+                "sitename": "Wikiquote"
             },
             {
                 "url": "https://no.wikisource.org",
@@ -4576,7 +4576,7 @@
                 "url": "https://om.wiktionary.org",
                 "dbname": "omwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             }
         ],
         "localname": "Oromo"
@@ -4633,13 +4633,13 @@
                 "url": "https://pa.wiktionary.org",
                 "dbname": "pawiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             },
             {
                 "url": "https://pa.wikibooks.org",
                 "dbname": "pawikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia"
+                "sitename": "Wikibooks"
             }
         ],
         "localname": "Punjabi"
@@ -4736,7 +4736,7 @@
                 "url": "https://pi.wiktionary.org",
                 "dbname": "piwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia",
+                "sitename": "Wiktionary",
                 "closed": ""
             }
         ],
@@ -4775,13 +4775,13 @@
                 "url": "https://pl.wikibooks.org",
                 "dbname": "plwikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia"
+                "sitename": "Wikibooks"
             },
             {
                 "url": "https://pl.wikinews.org",
                 "dbname": "plwikinews",
                 "code": "wikinews",
-                "sitename": "Wikipedia"
+                "sitename": "Wikinews"
             },
             {
                 "url": "https://pl.wikiquote.org",
@@ -4825,7 +4825,7 @@
                 "url": "https://pnb.wikipedia.org",
                 "dbname": "pnbwiki",
                 "code": "wiki",
-                "sitename": "Wikipedia"
+                "sitename": "وکیپیڈیا"
             },
             {
                 "url": "https://pnb.wiktionary.org",
@@ -4907,13 +4907,13 @@
                 "url": "https://pt.wikiquote.org",
                 "dbname": "ptwikiquote",
                 "code": "wikiquote",
-                "sitename": "Wikipedia"
+                "sitename": "Wikiquote"
             },
             {
                 "url": "https://pt.wikisource.org",
                 "dbname": "ptwikisource",
                 "code": "wikisource",
-                "sitename": "Wikipedia"
+                "sitename": "Wikisource"
             },
             {
                 "url": "https://pt.wikiversity.org",
@@ -4925,7 +4925,7 @@
                 "url": "https://pt.wikivoyage.org",
                 "dbname": "ptwikivoyage",
                 "code": "wikivoyage",
-                "sitename": "Wikipedia"
+                "sitename": "Wikivoyage"
             }
         ],
         "localname": "Portuguese"
@@ -4944,20 +4944,20 @@
                 "url": "https://qu.wiktionary.org",
                 "dbname": "quwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             },
             {
                 "url": "https://qu.wikibooks.org",
                 "dbname": "quwikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia",
+                "sitename": "Wikibooks",
                 "closed": ""
             },
             {
                 "url": "https://qu.wikiquote.org",
                 "dbname": "quwikiquote",
                 "code": "wikiquote",
-                "sitename": "Wikipedia",
+                "sitename": "Wikiquote",
                 "closed": ""
             }
         ],
@@ -4977,14 +4977,14 @@
                 "url": "https://rm.wiktionary.org",
                 "dbname": "rmwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia",
+                "sitename": "Wiktionary",
                 "closed": ""
             },
             {
                 "url": "https://rm.wikibooks.org",
                 "dbname": "rmwikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia",
+                "sitename": "Wikibooks",
                 "closed": ""
             }
         ],
@@ -5017,7 +5017,7 @@
                 "url": "https://rn.wiktionary.org",
                 "dbname": "rnwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia",
+                "sitename": "Wiktionary",
                 "closed": ""
             }
         ],
@@ -5061,13 +5061,13 @@
                 "url": "https://ro.wikisource.org",
                 "dbname": "rowikisource",
                 "code": "wikisource",
-                "sitename": "Wikipedia"
+                "sitename": "Wikisource"
             },
             {
                 "url": "https://ro.wikivoyage.org",
                 "dbname": "rowikivoyage",
                 "code": "wikivoyage",
-                "sitename": "Wikipedia"
+                "sitename": "Wikivoyage"
             }
         ],
         "localname": "Romanian"
@@ -5086,7 +5086,7 @@
                 "url": "https://roa-rup.wiktionary.org",
                 "dbname": "roa_rupwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             }
         ],
         "localname": "Aromanian"
@@ -5154,7 +5154,7 @@
                 "url": "https://ru.wikivoyage.org",
                 "dbname": "ruwikivoyage",
                 "code": "wikivoyage",
-                "sitename": "Wikipedia"
+                "sitename": "Wikivoyage"
             }
         ],
         "localname": "Russian"
@@ -5186,7 +5186,7 @@
                 "url": "https://rw.wiktionary.org",
                 "dbname": "rwwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             }
         ],
         "localname": "Kinyarwanda"
@@ -5205,13 +5205,13 @@
                 "url": "https://sa.wiktionary.org",
                 "dbname": "sawiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             },
             {
                 "url": "https://sa.wikibooks.org",
                 "dbname": "sawikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia"
+                "sitename": "Wikibooks"
             },
             {
                 "url": "https://sa.wikiquote.org",
@@ -5223,7 +5223,7 @@
                 "url": "https://sa.wikisource.org",
                 "dbname": "sawikisource",
                 "code": "wikisource",
-                "sitename": "Wikipedia"
+                "sitename": "Wikisource"
             }
         ],
         "localname": "Sanskrit"
@@ -5261,7 +5261,7 @@
                 "url": "https://sc.wiktionary.org",
                 "dbname": "scwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia",
+                "sitename": "Wiktionary",
                 "closed": ""
             }
         ],
@@ -5313,13 +5313,13 @@
                 "url": "https://sd.wiktionary.org",
                 "dbname": "sdwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             },
             {
                 "url": "https://sd.wikinews.org",
                 "dbname": "sdwikinews",
                 "code": "wikinews",
-                "sitename": "Wikipedia",
+                "sitename": "Wikinews",
                 "closed": ""
             }
         ],
@@ -5339,7 +5339,7 @@
                 "url": "https://se.wikibooks.org",
                 "dbname": "sewikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia",
+                "sitename": "Wikibooks",
                 "closed": ""
             }
         ],
@@ -5359,7 +5359,7 @@
                 "url": "https://sg.wiktionary.org",
                 "dbname": "sgwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             }
         ],
         "localname": "Sango"
@@ -5378,7 +5378,7 @@
                 "url": "https://sh.wiktionary.org",
                 "dbname": "shwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             }
         ],
         "localname": "Serbo-Croatian"
@@ -5397,13 +5397,13 @@
                 "url": "https://si.wiktionary.org",
                 "dbname": "siwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             },
             {
                 "url": "https://si.wikibooks.org",
                 "dbname": "siwikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia"
+                "sitename": "Wikibooks"
             }
         ],
         "localname": "Sinhala"
@@ -5422,20 +5422,20 @@
                 "url": "https://simple.wiktionary.org",
                 "dbname": "simplewiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             },
             {
                 "url": "https://simple.wikibooks.org",
                 "dbname": "simplewikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia",
+                "sitename": "Wikibooks",
                 "closed": ""
             },
             {
                 "url": "https://simple.wikiquote.org",
                 "dbname": "simplewikiquote",
                 "code": "wikiquote",
-                "sitename": "Wikipedia",
+                "sitename": "Wikiquote",
                 "closed": ""
             }
         ],
@@ -5535,7 +5535,7 @@
                 "url": "https://sm.wiktionary.org",
                 "dbname": "smwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             }
         ],
         "localname": "Samoan"
@@ -5554,7 +5554,7 @@
                 "url": "https://sn.wiktionary.org",
                 "dbname": "snwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia",
+                "sitename": "Wiktionary",
                 "closed": ""
             }
         ],
@@ -5574,7 +5574,7 @@
                 "url": "https://so.wiktionary.org",
                 "dbname": "sowiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             }
         ],
         "localname": "Somali"
@@ -5593,13 +5593,13 @@
                 "url": "https://sq.wiktionary.org",
                 "dbname": "sqwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             },
             {
                 "url": "https://sq.wikibooks.org",
                 "dbname": "sqwikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia"
+                "sitename": "Wikibooks"
             },
             {
                 "url": "https://sq.wikinews.org",
@@ -5611,7 +5611,7 @@
                 "url": "https://sq.wikiquote.org",
                 "dbname": "sqwikiquote",
                 "code": "wikiquote",
-                "sitename": "Wikipedia"
+                "sitename": "Wikiquote"
             }
         ],
         "localname": "Albanian"
@@ -5630,7 +5630,7 @@
                 "url": "https://sr.wiktionary.org",
                 "dbname": "srwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             },
             {
                 "url": "https://sr.wikibooks.org",
@@ -5648,7 +5648,7 @@
                 "url": "https://sr.wikiquote.org",
                 "dbname": "srwikiquote",
                 "code": "wikiquote",
-                "sitename": "Wikipedia"
+                "sitename": "Wikiquote"
             },
             {
                 "url": "https://sr.wikisource.org",
@@ -5686,7 +5686,7 @@
                 "url": "https://ss.wiktionary.org",
                 "dbname": "sswiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             }
         ],
         "localname": "Swati"
@@ -5705,7 +5705,7 @@
                 "url": "https://st.wiktionary.org",
                 "dbname": "stwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             }
         ],
         "localname": "Southern Sotho"
@@ -5737,20 +5737,20 @@
                 "url": "https://su.wiktionary.org",
                 "dbname": "suwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             },
             {
                 "url": "https://su.wikibooks.org",
                 "dbname": "suwikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia",
+                "sitename": "Wikibooks",
                 "closed": ""
             },
             {
                 "url": "https://su.wikiquote.org",
                 "dbname": "suwikiquote",
                 "code": "wikiquote",
-                "sitename": "Wikipedia"
+                "sitename": "Wikiquote"
             }
         ],
         "localname": "Sundanese"
@@ -5769,43 +5769,43 @@
                 "url": "https://sv.wiktionary.org",
                 "dbname": "svwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             },
             {
                 "url": "https://sv.wikibooks.org",
                 "dbname": "svwikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia"
+                "sitename": "Wikibooks"
             },
             {
                 "url": "https://sv.wikinews.org",
                 "dbname": "svwikinews",
                 "code": "wikinews",
-                "sitename": "Wikipedia"
+                "sitename": "Wikinews"
             },
             {
                 "url": "https://sv.wikiquote.org",
                 "dbname": "svwikiquote",
                 "code": "wikiquote",
-                "sitename": "Wikipedia"
+                "sitename": "Wikiquote"
             },
             {
                 "url": "https://sv.wikisource.org",
                 "dbname": "svwikisource",
                 "code": "wikisource",
-                "sitename": "Wikipedia"
+                "sitename": "Wikisource"
             },
             {
                 "url": "https://sv.wikiversity.org",
                 "dbname": "svwikiversity",
                 "code": "wikiversity",
-                "sitename": "Wikipedia"
+                "sitename": "Wikiversity"
             },
             {
                 "url": "https://sv.wikivoyage.org",
                 "dbname": "svwikivoyage",
                 "code": "wikivoyage",
-                "sitename": "Wikipedia"
+                "sitename": "Wikivoyage"
             }
         ],
         "localname": "Swedish"
@@ -5824,13 +5824,13 @@
                 "url": "https://sw.wiktionary.org",
                 "dbname": "swwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             },
             {
                 "url": "https://sw.wikibooks.org",
                 "dbname": "swwikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia",
+                "sitename": "Wikibooks",
                 "closed": ""
             }
         ],
@@ -5912,7 +5912,7 @@
                 "url": "https://te.wikibooks.org",
                 "dbname": "tewikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia"
+                "sitename": "Wikibooks"
             },
             {
                 "url": "https://te.wikiquote.org",
@@ -5956,13 +5956,13 @@
                 "url": "https://tg.wiktionary.org",
                 "dbname": "tgwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             },
             {
                 "url": "https://tg.wikibooks.org",
                 "dbname": "tgwikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia"
+                "sitename": "Wikibooks"
             }
         ],
         "localname": "Tajik"
@@ -5981,7 +5981,7 @@
                 "url": "https://th.wiktionary.org",
                 "dbname": "thwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             },
             {
                 "url": "https://th.wikibooks.org",
@@ -5993,7 +5993,7 @@
                 "url": "https://th.wikinews.org",
                 "dbname": "thwikinews",
                 "code": "wikinews",
-                "sitename": "Wikipedia",
+                "sitename": "Wikinews",
                 "closed": ""
             },
             {
@@ -6025,7 +6025,7 @@
                 "url": "https://ti.wiktionary.org",
                 "dbname": "tiwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             }
         ],
         "localname": "Tigrinya"
@@ -6050,14 +6050,14 @@
                 "url": "https://tk.wikibooks.org",
                 "dbname": "tkwikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia",
+                "sitename": "Wikibooks",
                 "closed": ""
             },
             {
                 "url": "https://tk.wikiquote.org",
                 "dbname": "tkwikiquote",
                 "code": "wikiquote",
-                "sitename": "Wikipedia",
+                "sitename": "Wikiquote",
                 "closed": ""
             }
         ],
@@ -6077,13 +6077,13 @@
                 "url": "https://tl.wiktionary.org",
                 "dbname": "tlwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             },
             {
                 "url": "https://tl.wikibooks.org",
                 "dbname": "tlwikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia"
+                "sitename": "Wikibooks"
             }
         ],
         "localname": "Tagalog"
@@ -6102,7 +6102,7 @@
                 "url": "https://tn.wiktionary.org",
                 "dbname": "tnwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             }
         ],
         "localname": "Tswana"
@@ -6121,7 +6121,7 @@
                 "url": "https://to.wiktionary.org",
                 "dbname": "towiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia",
+                "sitename": "Wiktionary",
                 "closed": ""
             }
         ],
@@ -6141,7 +6141,7 @@
                 "url": "https://tpi.wiktionary.org",
                 "dbname": "tpiwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             }
         ],
         "localname": "Tok Pisin"
@@ -6203,7 +6203,7 @@
                 "url": "https://ts.wiktionary.org",
                 "dbname": "tswiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             }
         ],
         "localname": "Tsonga"
@@ -6222,19 +6222,19 @@
                 "url": "https://tt.wiktionary.org",
                 "dbname": "ttwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             },
             {
                 "url": "https://tt.wikibooks.org",
                 "dbname": "ttwikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia"
+                "sitename": "Wikibooks"
             },
             {
                 "url": "https://tt.wikiquote.org",
                 "dbname": "ttwikiquote",
                 "code": "wikiquote",
-                "sitename": "Wikipedia",
+                "sitename": "Wikiquote",
                 "closed": ""
             }
         ],
@@ -6267,7 +6267,7 @@
                 "url": "https://tw.wiktionary.org",
                 "dbname": "twwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia",
+                "sitename": "Wiktionary",
                 "closed": ""
             }
         ],
@@ -6326,20 +6326,20 @@
                 "url": "https://ug.wiktionary.org",
                 "dbname": "ugwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             },
             {
                 "url": "https://ug.wikibooks.org",
                 "dbname": "ugwikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia",
+                "sitename": "Wikibooks",
                 "closed": ""
             },
             {
                 "url": "https://ug.wikiquote.org",
                 "dbname": "ugwikiquote",
                 "code": "wikiquote",
-                "sitename": "Wikipedia",
+                "sitename": "Wikiquote",
                 "closed": ""
             }
         ],
@@ -6490,7 +6490,7 @@
                 "url": "https://vec.wikisource.org",
                 "dbname": "vecwikisource",
                 "code": "wikisource",
-                "sitename": "Wikipedia"
+                "sitename": "Wikisource"
             }
         ],
         "localname": "Venetian"
@@ -6522,31 +6522,31 @@
                 "url": "https://vi.wiktionary.org",
                 "dbname": "viwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             },
             {
                 "url": "https://vi.wikibooks.org",
                 "dbname": "viwikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia"
+                "sitename": "Wikibooks"
             },
             {
                 "url": "https://vi.wikiquote.org",
                 "dbname": "viwikiquote",
                 "code": "wikiquote",
-                "sitename": "Wikipedia"
+                "sitename": "Wikiquote"
             },
             {
                 "url": "https://vi.wikisource.org",
                 "dbname": "viwikisource",
                 "code": "wikisource",
-                "sitename": "Wikipedia"
+                "sitename": "Wikisource"
             },
             {
                 "url": "https://vi.wikivoyage.org",
                 "dbname": "viwikivoyage",
                 "code": "wikivoyage",
-                "sitename": "Wikipedia"
+                "sitename": "Wikivoyage"
             }
         ],
         "localname": "Vietnamese"
@@ -6591,7 +6591,7 @@
                 "url": "https://vo.wikiquote.org",
                 "dbname": "vowikiquote",
                 "code": "wikiquote",
-                "sitename": "Wikipedia",
+                "sitename": "Wikiquote",
                 "closed": ""
             }
         ],
@@ -6611,13 +6611,13 @@
                 "url": "https://wa.wiktionary.org",
                 "dbname": "wawiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             },
             {
                 "url": "https://wa.wikibooks.org",
                 "dbname": "wawikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia",
+                "sitename": "Wikibooks",
                 "closed": ""
             }
         ],
@@ -6650,13 +6650,13 @@
                 "url": "https://wo.wiktionary.org",
                 "dbname": "wowiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             },
             {
                 "url": "https://wo.wikiquote.org",
                 "dbname": "wowikiquote",
                 "code": "wikiquote",
-                "sitename": "Wikipedia"
+                "sitename": "Wikiquote"
             }
         ],
         "localname": "Wolof"
@@ -6701,14 +6701,14 @@
                 "url": "https://xh.wiktionary.org",
                 "dbname": "xhwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia",
+                "sitename": "Wiktionary",
                 "closed": ""
             },
             {
                 "url": "https://xh.wikibooks.org",
                 "dbname": "xhwikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia",
+                "sitename": "Wikibooks",
                 "closed": ""
             }
         ],
@@ -6766,14 +6766,14 @@
                 "url": "https://yo.wiktionary.org",
                 "dbname": "yowiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia",
+                "sitename": "Wiktionary",
                 "closed": ""
             },
             {
                 "url": "https://yo.wikibooks.org",
                 "dbname": "yowikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia",
+                "sitename": "Wikibooks",
                 "closed": ""
             }
         ],
@@ -6793,21 +6793,21 @@
                 "url": "https://za.wiktionary.org",
                 "dbname": "zawiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia",
+                "sitename": "Wiktionary",
                 "closed": ""
             },
             {
                 "url": "https://za.wikibooks.org",
                 "dbname": "zawikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia",
+                "sitename": "Wikibooks",
                 "closed": ""
             },
             {
                 "url": "https://za.wikiquote.org",
                 "dbname": "zawikiquote",
                 "code": "wikiquote",
-                "sitename": "Wikipedia",
+                "sitename": "Wikiquote",
                 "closed": ""
             }
         ],
@@ -6840,31 +6840,31 @@
                 "url": "https://zh.wiktionary.org",
                 "dbname": "zhwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             },
             {
                 "url": "https://zh.wikibooks.org",
                 "dbname": "zhwikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia"
+                "sitename": "Wikibooks"
             },
             {
                 "url": "https://zh.wikinews.org",
                 "dbname": "zhwikinews",
                 "code": "wikinews",
-                "sitename": "Wikipedia"
+                "sitename": "Wikinews"
             },
             {
                 "url": "https://zh.wikiquote.org",
                 "dbname": "zhwikiquote",
                 "code": "wikiquote",
-                "sitename": "Wikipedia"
+                "sitename": "Wikiquote"
             },
             {
                 "url": "https://zh.wikisource.org",
                 "dbname": "zhwikisource",
                 "code": "wikisource",
-                "sitename": "Wikipedia"
+                "sitename": "Wikisource"
             },
             {
                 "url": "https://zh.wikivoyage.org",
@@ -6902,27 +6902,27 @@
                 "url": "https://zh-min-nan.wiktionary.org",
                 "dbname": "zh_min_nanwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             },
             {
                 "url": "https://zh-min-nan.wikibooks.org",
                 "dbname": "zh_min_nanwikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia",
+                "sitename": "Wikibooks",
                 "closed": ""
             },
             {
                 "url": "https://zh-min-nan.wikiquote.org",
                 "dbname": "zh_min_nanwikiquote",
                 "code": "wikiquote",
-                "sitename": "Wikipedia",
+                "sitename": "Wikiquote",
                 "closed": ""
             },
             {
                 "url": "https://zh-min-nan.wikisource.org",
                 "dbname": "zh_min_nanwikisource",
                 "code": "wikisource",
-                "sitename": "Wikipedia"
+                "sitename": "Wiki Tô·-su-kóan"
             }
         ],
         "localname": "Chinese (Min Nan)"
@@ -6954,13 +6954,13 @@
                 "url": "https://zu.wiktionary.org",
                 "dbname": "zuwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikipedia"
+                "sitename": "Wiktionary"
             },
             {
                 "url": "https://zu.wikibooks.org",
                 "dbname": "zuwikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikipedia",
+                "sitename": "Wikibooks",
                 "closed": ""
             }
         ],
