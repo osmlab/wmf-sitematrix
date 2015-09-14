@@ -575,7 +575,7 @@
         "name": "беларуская (тарашкевіца)‎",
         "site": [
             {
-                "url": "https://be-x-old.wikipedia.org",
+                "url": "https://be-tarask.wikipedia.org",
                 "dbname": "be_x_oldwiki",
                 "code": "wiki",
                 "sitename": "Вікіпэдыя"
@@ -3186,13 +3186,13 @@
                 "url": "https://kn.wikiquote.org",
                 "dbname": "knwikiquote",
                 "code": "wikiquote",
-                "sitename": "Wikiquote"
+                "sitename": "ವಿಕಿಕೋಟ್"
             },
             {
                 "url": "https://kn.wikisource.org",
                 "dbname": "knwikisource",
                 "code": "wikisource",
-                "sitename": "Wikisource"
+                "sitename": "ವಿಕಿಸೋರ್ಸ್"
             }
         ],
         "localname": "Kannada"
@@ -4031,7 +4031,7 @@
                 "url": "https://mr.wikibooks.org",
                 "dbname": "mrwikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikibooks"
+                "sitename": "विकिबुक्स"
             },
             {
                 "url": "https://mr.wikiquote.org",
@@ -5648,7 +5648,7 @@
                 "url": "https://sr.wikiquote.org",
                 "dbname": "srwikiquote",
                 "code": "wikiquote",
-                "sitename": "Wikiquote"
+                "sitename": "Викицитат"
             },
             {
                 "url": "https://sr.wikisource.org",
@@ -7053,7 +7053,7 @@
             "private": ""
         },
         {
-            "url": "https://chapcom.wikimedia.org",
+            "url": "https://affcom.wikimedia.org",
             "dbname": "chapcomwiki",
             "code": "chapcom",
             "private": ""
