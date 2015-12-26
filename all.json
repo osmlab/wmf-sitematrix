@@ -456,7 +456,7 @@
                 "url": "https://az.wikisource.org",
                 "dbname": "azwikisource",
                 "code": "wikisource",
-                "sitename": "VikiMənbə"
+                "sitename": "Vikimənbə"
             }
         ],
         "localname": "Azerbaijani"
@@ -472,7 +472,7 @@
                 "sitename": "ویکی‌پدیا"
             }
         ],
-        "localname": "South Azerbaijani"
+        "localname": "تۆرکجه"
     },
     "18": {
         "code": "ba",
@@ -2511,7 +2511,7 @@
                 "closed": ""
             }
         ],
-        "localname": "Haitian"
+        "localname": "Haitian Creole"
     },
     "101": {
         "code": "hu",
@@ -4300,7 +4300,7 @@
                 "sitename": "Wikipedie"
             }
         ],
-        "localname": "Low Saxon (Netherlands)"
+        "localname": "Low Saxon"
     },
     "180": {
         "code": "ne",
@@ -7424,7 +7424,7 @@
             "url": "https://ua.wikimedia.org",
             "dbname": "uawikimedia",
             "code": "uawikimedia",
-            "sitename": "Вікімедіа_Україна"
+            "sitename": "Вікімедіа Україна"
         },
         {
             "url": "https://uk.wikimedia.org",
@@ -7527,7 +7527,8 @@
             "url": "https://wikimania2014.wikimedia.org",
             "dbname": "wikimania2014wiki",
             "code": "wikimania2014",
-            "sitename": "Wikipedia"
+            "sitename": "Wikipedia",
+            "closed": ""
         },
         {
             "url": "https://wikimania2015.wikimedia.org",
