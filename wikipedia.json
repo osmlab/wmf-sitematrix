@@ -10,6 +10,11 @@
         "ace"
     ],
     [
+        "Adyghe",
+        "адыгабзэ",
+        "ady"
+    ],
+    [
         "Afrikaans",
         "Afrikaans",
         "af"
@@ -426,7 +431,7 @@
     ],
     [
         "Goan Konkani",
-        "गोवा कोंकणी / Gova Konknni",
+        "गोंयची कोंकणी / Gõychi Konknni",
         "gom"
     ],
     [
@@ -456,7 +461,7 @@
     ],
     [
         "Hawaiian",
-        "Hawai`i",
+        "Hawaiʻi",
         "haw"
     ],
     [
@@ -555,8 +560,13 @@
         "ja"
     ],
     [
+        "Jamaican Creole English",
+        "Patois",
+        "jam"
+    ],
+    [
         "Lojban",
-        "Lojban",
+        "la .lojban.",
         "jbo"
     ],
     [
