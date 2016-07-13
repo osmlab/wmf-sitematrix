@@ -1,21 +1,28 @@
 {
-	"name": "wmf-sitematrix",
-	"version": "0.1.0",
-	"description": "list of Wikimedia wikis",
-	"main": "build.js",
-	"repository": {
-		"type": "git",
-		"url": "git://github.com/osmlab/wmf-sitematrix.git"
-	},
-	"bugs": {
-		"url": "https://github.com/osmlab/wmf-sitematrix/issues"
-	},
-	"keywords": [
-		"wikipedia",
-		"wikimedia",
-		"wmf",
-		"wiki"
-	],
-	"author": "Minh Nguyễn",
-	"license": "BSD"
+  "name": "wmf-sitematrix",
+  "version": "0.1.0",
+  "description": "list of Wikimedia wikis",
+  "main": "index.js",
+  "jsnext:main": "index.export.js",
+  "scripts": {
+    "test": "tap test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/osmlab/wmf-sitematrix.git"
+  },
+  "bugs": {
+    "url": "https://github.com/osmlab/wmf-sitematrix/issues"
+  },
+  "keywords": [
+    "wikipedia",
+    "wikimedia",
+    "wmf",
+    "wiki"
+  ],
+  "author": "Minh Nguyễn",
+  "license": "BSD",
+  "devDependencies": {
+    "tap": "6.1.1"
+  }
 }
