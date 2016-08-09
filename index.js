@@ -4,3 +4,5 @@ module.exports.wikiquote = require('./wikiquote.json');
 module.exports.wikiversity = require('./wikiversity.json');
 module.exports.wikivoyage = require('./wikivoyage.json');
 module.exports.wiktionary = require('./wiktionary.json');
+module.exports.wikipedia = require('./wikipedia.json');
+module.exports.wikisource = require('./wikisource.json');
