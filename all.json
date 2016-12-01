@@ -1874,6 +1874,12 @@
                 "dbname": "fiwikiversity",
                 "code": "wikiversity",
                 "sitename": "Wikiopisto"
+            },
+            {
+                "url": "https://fi.wikivoyage.org",
+                "dbname": "fiwikivoyage",
+                "code": "wikivoyage",
+                "sitename": "Wikimatkat"
             }
         ],
         "localname": "Finnish"
@@ -7018,7 +7024,7 @@
         ],
         "localname": "Zulu"
     },
-    "count": 900,
+    "count": 901,
     "specials": [
         {
             "url": "https://advisory.wikimedia.org",
