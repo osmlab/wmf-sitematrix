@@ -849,7 +849,7 @@
                 "url": "https://bs.wiktionary.org",
                 "dbname": "bswiktionary",
                 "code": "wiktionary",
-                "sitename": "Vikirječnik"
+                "sitename": "Wikirječnik"
             },
             {
                 "url": "https://bs.wikibooks.org",
@@ -3385,7 +3385,7 @@
                 "url": "https://ku.wiktionary.org",
                 "dbname": "kuwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wiktionary"
+                "sitename": "Wîkîferheng"
             },
             {
                 "url": "https://ku.wikibooks.org",
@@ -5250,13 +5250,13 @@
                 "url": "https://sa.wiktionary.org",
                 "dbname": "sawiktionary",
                 "code": "wiktionary",
-                "sitename": "Wiktionary"
+                "sitename": "विकिशब्दकोशः"
             },
             {
                 "url": "https://sa.wikibooks.org",
                 "dbname": "sawikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikibooks"
+                "sitename": "विकिपुस्तकानि"
             },
             {
                 "url": "https://sa.wikiquote.org",
@@ -5268,7 +5268,7 @@
                 "url": "https://sa.wikisource.org",
                 "dbname": "sawikisource",
                 "code": "wikisource",
-                "sitename": "Wikisource"
+                "sitename": "विकिस्रोतः"
             }
         ],
         "localname": "Sanskrit"
