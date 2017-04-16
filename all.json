@@ -4685,6 +4685,12 @@
                 "dbname": "pawikibooks",
                 "code": "wikibooks",
                 "sitename": "Wikibooks"
+            },
+            {
+                "url": "https://pa.wikisource.org",
+                "dbname": "pawikisource",
+                "code": "wikisource",
+                "sitename": "ਵਿਕੀਸਰੋਤ"
             }
         ],
         "localname": "Punjabi"
@@ -7024,7 +7030,7 @@
         ],
         "localname": "Zulu"
     },
-    "count": 902,
+    "count": 904,
     "specials": [
         {
             "url": "https://advisory.wikimedia.org",
@@ -7533,6 +7539,13 @@
             "fishbowl": ""
         },
         {
+            "url": "https://wb.wikimedia.org",
+            "dbname": "wbwikimedia",
+            "code": "wbwikimedia",
+            "sitename": "West Bengal Wikimedians",
+            "fishbowl": ""
+        },
+        {
             "url": "https://wg-en.wikipedia.org",
             "dbname": "wg_enwiki",
             "code": "wg-en",
@@ -7626,7 +7639,8 @@
             "url": "https://wikimania2016.wikimedia.org",
             "dbname": "wikimania2016wiki",
             "code": "wikimania2016",
-            "sitename": "Wikipedia"
+            "sitename": "Wikipedia",
+            "closed": ""
         },
         {
             "url": "https://wikimania2017.wikimedia.org",
