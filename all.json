@@ -4451,8 +4451,7 @@
                 "url": "https://nl.wikinews.org",
                 "dbname": "nlwikinews",
                 "code": "wikinews",
-                "sitename": "Wikinews",
-                "closed": ""
+                "sitename": "Wikinews"
             },
             {
                 "url": "https://nl.wikiquote.org",
@@ -7566,8 +7565,7 @@
             "url": "https://uk.wikimedia.org",
             "dbname": "ukwikimedia",
             "code": "ukwikimedia",
-            "sitename": "Wikimedia UK",
-            "closed": ""
+            "sitename": "Wikimedia UK"
         },
         {
             "url": "https://usability.wikimedia.org",
