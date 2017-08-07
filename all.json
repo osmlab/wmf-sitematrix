@@ -1087,7 +1087,7 @@
     },
     "47": {
         "code": "ckb",
-        "name": "کوردیی ناوەندی",
+        "name": "کوردی",
         "site": [
             {
                 "url": "https://ckb.wikipedia.org",
@@ -2464,6 +2464,12 @@
                 "dbname": "hiwikiquote",
                 "code": "wikiquote",
                 "sitename": "विकिसूक्ति"
+            },
+            {
+                "url": "https://hi.wikiversity.org",
+                "dbname": "hiwikiversity",
+                "code": "wikiversity",
+                "sitename": "विकिविद्यालय"
             }
         ],
         "localname": "Hindi"
@@ -7081,7 +7087,7 @@
         ],
         "localname": "Zulu"
     },
-    "count": 909,
+    "count": 912,
     "specials": [
         {
             "url": "https://advisory.wikimedia.org",
@@ -7538,6 +7544,13 @@
             "closed": ""
         },
         {
+            "url": "https://techconduct.wikipedia.org",
+            "dbname": "techconductwiki",
+            "code": "techconduct",
+            "sitename": "CoC committee",
+            "private": ""
+        },
+        {
             "url": "https://ten.wikipedia.org",
             "dbname": "tenwiki",
             "code": "ten",
@@ -7703,6 +7716,12 @@
             "url": "https://wikimania2017.wikimedia.org",
             "dbname": "wikimania2017wiki",
             "code": "wikimania2017",
+            "sitename": "Wikipedia"
+        },
+        {
+            "url": "https://wikimania2018.wikimedia.org",
+            "dbname": "wikimania2018wiki",
+            "code": "wikimania2018",
             "sitename": "Wikipedia"
         },
         {
