@@ -146,27 +146,6 @@
                 "dbname": "alswiki",
                 "code": "wiki",
                 "sitename": "Wikipedia"
-            },
-            {
-                "url": "https://als.wiktionary.org",
-                "dbname": "alswiktionary",
-                "code": "wiktionary",
-                "sitename": "Wiktionary",
-                "closed": ""
-            },
-            {
-                "url": "https://als.wikibooks.org",
-                "dbname": "alswikibooks",
-                "code": "wikibooks",
-                "sitename": "Wikibooks",
-                "closed": ""
-            },
-            {
-                "url": "https://als.wikiquote.org",
-                "dbname": "alswikiquote",
-                "code": "wikiquote",
-                "sitename": "Wikiquote",
-                "closed": ""
             }
         ],
         "dir": "ltr",
@@ -2567,7 +2546,7 @@
                 "url": "https://hi.wikiversity.org",
                 "dbname": "hiwikiversity",
                 "code": "wikiversity",
-                "sitename": "विकिविद्यालय"
+                "sitename": "विकिविश्वविद्यालय"
             },
             {
                 "url": "https://hi.wikivoyage.org",
@@ -4265,22 +4244,7 @@
     "171": {
         "code": "mo",
         "name": "молдовеняскэ",
-        "site": [
-            {
-                "url": "https://mo.wikipedia.org",
-                "dbname": "mowiki",
-                "code": "wiki",
-                "sitename": "Wikipedia",
-                "closed": ""
-            },
-            {
-                "url": "https://mo.wiktionary.org",
-                "dbname": "mowiktionary",
-                "code": "wiktionary",
-                "sitename": "Wiktionary",
-                "closed": ""
-            }
-        ],
+        "site": [],
         "dir": "ltr",
         "localname": "молдовеняскэ"
     },
@@ -5658,7 +5622,7 @@
                 "url": "https://sd.wikipedia.org",
                 "dbname": "sdwiki",
                 "code": "wiki",
-                "sitename": "Wikipedia"
+                "sitename": "وڪيپيڊيا"
             },
             {
                 "url": "https://sd.wiktionary.org",
@@ -7026,7 +6990,7 @@
                 "url": "https://wa.wiktionary.org",
                 "dbname": "wawiktionary",
                 "code": "wiktionary",
-                "sitename": "Wiktionary"
+                "sitename": "Wiccionaire"
             },
             {
                 "url": "https://wa.wikibooks.org",
@@ -7397,7 +7361,7 @@
         "dir": "ltr",
         "localname": "Zulu"
     },
-    "count": 916,
+    "count": 911,
     "specials": [
         {
             "url": "https://advisory.wikimedia.org",
@@ -8041,7 +8005,8 @@
             "url": "https://wikimania2017.wikimedia.org",
             "dbname": "wikimania2017wiki",
             "code": "wikimania2017",
-            "sitename": "Wikipedia"
+            "sitename": "Wikipedia",
+            "closed": ""
         },
         {
             "url": "https://wikimania2018.wikimedia.org",
