@@ -450,6 +450,11 @@
         "gom"
     ],
     [
+        "Gorontalo",
+        "Bahasa Hulontalo",
+        "gor"
+    ],
+    [
         "Gothic",
         "𐌲𐌿𐍄𐌹𐍃𐌺",
         "got"
@@ -548,6 +553,11 @@
         "Iloko",
         "Ilokano",
         "ilo"
+    ],
+    [
+        "Ingush",
+        "ГӀалгӀай",
+        "inh"
     ],
     [
         "Ido",
@@ -671,7 +681,7 @@
     ],
     [
         "Kurdish",
-        "Kurdî",
+        "kurdî",
         "ku"
     ],
     [
@@ -713,6 +723,11 @@
         "Lezghian",
         "лезги",
         "lez"
+    ],
+    [
+        "Lingua Franca Nova",
+        "Lingua Franca Nova",
+        "lfn"
     ],
     [
         "Ganda",
