@@ -1,5 +1,10 @@
 [
     [
+        "Bangla",
+        "বাংলা",
+        "bn"
+    ],
+    [
         "German",
         "Deutsch",
         "de"
@@ -58,6 +63,11 @@
         "Polish",
         "polski",
         "pl"
+    ],
+    [
+        "Pashto",
+        "پښتو",
+        "ps"
     ],
     [
         "Portuguese",

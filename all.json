@@ -782,6 +782,12 @@
                 "dbname": "bnwikisource",
                 "code": "wikisource",
                 "sitename": "উইকিসংকলন"
+            },
+            {
+                "url": "https://bn.wikivoyage.org",
+                "dbname": "bnwikivoyage",
+                "code": "wikivoyage",
+                "sitename": "উইকিভ্রমণ"
             }
         ],
         "dir": "ltr",
@@ -5156,6 +5162,12 @@
                 "dbname": "pmswiki",
                 "code": "wiki",
                 "sitename": "Wikipedia"
+            },
+            {
+                "url": "https://pms.wikisource.org",
+                "dbname": "pmswikisource",
+                "code": "wikisource",
+                "sitename": "Wikisource"
             }
         ],
         "dir": "ltr",
@@ -5217,6 +5229,12 @@
                 "code": "wikibooks",
                 "sitename": "ويکيتابونه",
                 "closed": ""
+            },
+            {
+                "url": "https://ps.wikivoyage.org",
+                "dbname": "pswikivoyage",
+                "code": "wikivoyage",
+                "sitename": "ويکيسفر"
             }
         ],
         "dir": "rtl",
@@ -5596,6 +5614,12 @@
                 "dbname": "sahwiki",
                 "code": "wiki",
                 "sitename": "Бикипиэдьийэ"
+            },
+            {
+                "url": "https://sah.wikiquote.org",
+                "dbname": "sahwikiquote",
+                "code": "wikiquote",
+                "sitename": "Биики_Домох"
             },
             {
                 "url": "https://sah.wikisource.org",
@@ -7409,7 +7433,7 @@
         "dir": "ltr",
         "localname": "Zulu"
     },
-    "count": 918,
+    "count": 923,
     "specials": [
         {
             "url": "https://advisors.wikimedia.org",
@@ -7643,6 +7667,13 @@
             "dbname": "hiwikimedia",
             "code": "hiwikimedia",
             "sitename": "Hindi Wikimedians User Group",
+            "fishbowl": ""
+        },
+        {
+            "url": "https://id.wikimedia.org",
+            "dbname": "idwikimedia",
+            "code": "idwikimedia",
+            "sitename": "Wikimedia Indonesia",
             "fishbowl": ""
         },
         {
