@@ -5633,13 +5633,13 @@
     },
     "232": {
         "code": "sat",
-        "name": "Santali",
+        "name": "ᱥᱟᱱᱛᱟᱲᱤ",
         "site": [
             {
                 "url": "https://sat.wikipedia.org",
                 "dbname": "satwiki",
                 "code": "wiki",
-                "sitename": "Wikipedia"
+                "sitename": "ᱣᱤᱠᱤᱯᱤᱰᱤᱭᱟ"
             }
         ],
         "dir": "ltr",
@@ -5680,7 +5680,7 @@
                 "url": "https://scn.wiktionary.org",
                 "dbname": "scnwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikizziunariu"
+                "sitename": "Wiktionary"
             }
         ],
         "dir": "ltr",
