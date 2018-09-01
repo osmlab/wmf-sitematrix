@@ -5680,7 +5680,7 @@
                 "url": "https://scn.wiktionary.org",
                 "dbname": "scnwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wiktionary"
+                "sitename": "Wikizziunariu"
             }
         ],
         "dir": "ltr",
@@ -7453,7 +7453,7 @@
         "dir": "ltr",
         "localname": "Zulu"
     },
-    "count": 927,
+    "count": 928,
     "specials": [
         {
             "url": "https://advisors.wikimedia.org",
@@ -7667,6 +7667,13 @@
             "dbname": "fiwikimedia",
             "code": "fiwikimedia",
             "sitename": "Wikimedia Suomi"
+        },
+        {
+            "url": "https://fixcopyright.wikimedia.org",
+            "dbname": "fixcopyrightwiki",
+            "code": "fixcopyright",
+            "sitename": "Wikipedia",
+            "fishbowl": ""
         },
         {
             "url": "https://foundation.wikimedia.org",
