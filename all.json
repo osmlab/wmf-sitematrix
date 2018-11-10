@@ -2745,7 +2745,7 @@
     },
     "107": {
         "code": "hy",
-        "name": "Հայերեն",
+        "name": "հայերեն",
         "site": [
             {
                 "url": "https://hy.wikipedia.org",
@@ -7672,14 +7672,14 @@
             "url": "https://fixcopyright.wikimedia.org",
             "dbname": "fixcopyrightwiki",
             "code": "fixcopyright",
-            "sitename": "Wikipedia",
+            "sitename": "Fix copyright - Wikimedia Foundation",
             "fishbowl": ""
         },
         {
             "url": "https://foundation.wikimedia.org",
             "dbname": "foundationwiki",
             "code": "foundation",
-            "sitename": "Wikimedia Foundation",
+            "sitename": "Wikimedia Foundation Governance Wiki",
             "fishbowl": ""
         },
         {
@@ -7741,13 +7741,15 @@
             "url": "https://wikitech.wikimedia.org",
             "dbname": "labswiki",
             "code": "labs",
-            "sitename": "Wikipedia"
+            "sitename": "Wikipedia",
+            "nonglobal": ""
         },
         {
             "url": "https://labtestwikitech.wikimedia.org",
             "dbname": "labtestwiki",
             "code": "labtest",
-            "sitename": "Wikipedia"
+            "sitename": "Wikipedia",
+            "nonglobal": ""
         },
         {
             "url": "https://legalteam.wikimedia.org",
