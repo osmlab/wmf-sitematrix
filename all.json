@@ -3870,6 +3870,12 @@
                 "sitename": "Wikibeuk"
             },
             {
+                "url": "https://li.wikinews.org",
+                "dbname": "liwikinews",
+                "code": "wikinews",
+                "sitename": "Wikinuujs"
+            },
+            {
                 "url": "https://li.wikiquote.org",
                 "dbname": "liwikiquote",
                 "code": "wikiquote",
@@ -5789,6 +5795,20 @@
         "localname": "Serbo-Croatian"
     },
     "240": {
+        "code": "shn",
+        "name": "ၽႃႇသႃႇတႆး ",
+        "site": [
+            {
+                "url": "https://shn.wikipedia.org",
+                "dbname": "shnwiki",
+                "code": "wiki",
+                "sitename": "Wikipedia"
+            }
+        ],
+        "dir": "ltr",
+        "localname": "Shan"
+    },
+    "241": {
         "code": "si",
         "name": "සිංහල",
         "site": [
@@ -5814,7 +5834,7 @@
         "dir": "ltr",
         "localname": "Sinhala"
     },
-    "241": {
+    "242": {
         "code": "simple",
         "name": "Simple English",
         "site": [
@@ -5848,7 +5868,7 @@
         "dir": "ltr",
         "localname": "Simple English"
     },
-    "242": {
+    "243": {
         "code": "sk",
         "name": "slovenčina",
         "site": [
@@ -5886,7 +5906,7 @@
         "dir": "ltr",
         "localname": "Slovak"
     },
-    "243": {
+    "244": {
         "code": "sl",
         "name": "slovenščina",
         "site": [
@@ -5930,7 +5950,7 @@
         "dir": "ltr",
         "localname": "Slovenian"
     },
-    "244": {
+    "245": {
         "code": "sm",
         "name": "Gagana Samoa",
         "site": [
@@ -5950,7 +5970,7 @@
         "dir": "ltr",
         "localname": "Samoan"
     },
-    "245": {
+    "246": {
         "code": "sn",
         "name": "chiShona",
         "site": [
@@ -5971,7 +5991,7 @@
         "dir": "ltr",
         "localname": "Shona"
     },
-    "246": {
+    "247": {
         "code": "so",
         "name": "Soomaaliga",
         "site": [
@@ -5991,7 +6011,7 @@
         "dir": "ltr",
         "localname": "Somali"
     },
-    "247": {
+    "248": {
         "code": "sq",
         "name": "shqip",
         "site": [
@@ -6029,7 +6049,7 @@
         "dir": "ltr",
         "localname": "Albanian"
     },
-    "248": {
+    "249": {
         "code": "sr",
         "name": "српски / srpski",
         "site": [
@@ -6073,7 +6093,7 @@
         "dir": "ltr",
         "localname": "Serbian"
     },
-    "249": {
+    "250": {
         "code": "srn",
         "name": "Sranantongo",
         "site": [
@@ -6087,7 +6107,7 @@
         "dir": "ltr",
         "localname": "Sranan Tongo"
     },
-    "250": {
+    "251": {
         "code": "ss",
         "name": "SiSwati",
         "site": [
@@ -6107,7 +6127,7 @@
         "dir": "ltr",
         "localname": "Swati"
     },
-    "251": {
+    "252": {
         "code": "st",
         "name": "Sesotho",
         "site": [
@@ -6127,7 +6147,7 @@
         "dir": "ltr",
         "localname": "Southern Sotho"
     },
-    "252": {
+    "253": {
         "code": "stq",
         "name": "Seeltersk",
         "site": [
@@ -6141,7 +6161,7 @@
         "dir": "ltr",
         "localname": "Saterland Frisian"
     },
-    "253": {
+    "254": {
         "code": "su",
         "name": "Basa Sunda",
         "site": [
@@ -6174,7 +6194,7 @@
         "dir": "ltr",
         "localname": "Sundanese"
     },
-    "254": {
+    "255": {
         "code": "sv",
         "name": "svenska",
         "site": [
@@ -6230,7 +6250,7 @@
         "dir": "ltr",
         "localname": "Swedish"
     },
-    "255": {
+    "256": {
         "code": "sw",
         "name": "Kiswahili",
         "site": [
@@ -6257,7 +6277,7 @@
         "dir": "ltr",
         "localname": "Swahili"
     },
-    "256": {
+    "257": {
         "code": "szl",
         "name": "ślůnski",
         "site": [
@@ -6271,7 +6291,7 @@
         "dir": "ltr",
         "localname": "Silesian"
     },
-    "257": {
+    "258": {
         "code": "ta",
         "name": "தமிழ்",
         "site": [
@@ -6315,7 +6335,7 @@
         "dir": "ltr",
         "localname": "Tamil"
     },
-    "258": {
+    "259": {
         "code": "tcy",
         "name": "ತುಳು",
         "site": [
@@ -6329,7 +6349,7 @@
         "dir": "ltr",
         "localname": "Tulu"
     },
-    "259": {
+    "260": {
         "code": "te",
         "name": "తెలుగు",
         "site": [
@@ -6367,7 +6387,7 @@
         "dir": "ltr",
         "localname": "Telugu"
     },
-    "260": {
+    "261": {
         "code": "tet",
         "name": "tetun",
         "site": [
@@ -6381,7 +6401,7 @@
         "dir": "ltr",
         "localname": "Tetum"
     },
-    "261": {
+    "262": {
         "code": "tg",
         "name": "тоҷикӣ",
         "site": [
@@ -6407,7 +6427,7 @@
         "dir": "ltr",
         "localname": "Tajik"
     },
-    "262": {
+    "263": {
         "code": "th",
         "name": "ไทย",
         "site": [
@@ -6452,7 +6472,7 @@
         "dir": "ltr",
         "localname": "Thai"
     },
-    "263": {
+    "264": {
         "code": "ti",
         "name": "ትግርኛ",
         "site": [
@@ -6472,7 +6492,7 @@
         "dir": "ltr",
         "localname": "Tigrinya"
     },
-    "264": {
+    "265": {
         "code": "tk",
         "name": "Türkmençe",
         "site": [
@@ -6506,7 +6526,7 @@
         "dir": "ltr",
         "localname": "Turkmen"
     },
-    "265": {
+    "266": {
         "code": "tl",
         "name": "Tagalog",
         "site": [
@@ -6532,7 +6552,7 @@
         "dir": "ltr",
         "localname": "Tagalog"
     },
-    "266": {
+    "267": {
         "code": "tn",
         "name": "Setswana",
         "site": [
@@ -6552,7 +6572,7 @@
         "dir": "ltr",
         "localname": "Tswana"
     },
-    "267": {
+    "268": {
         "code": "to",
         "name": "lea faka-Tonga",
         "site": [
@@ -6573,7 +6593,7 @@
         "dir": "ltr",
         "localname": "Tongan"
     },
-    "268": {
+    "269": {
         "code": "tpi",
         "name": "Tok Pisin",
         "site": [
@@ -6593,7 +6613,7 @@
         "dir": "ltr",
         "localname": "Tok Pisin"
     },
-    "269": {
+    "270": {
         "code": "tr",
         "name": "Türkçe",
         "site": [
@@ -6637,7 +6657,7 @@
         "dir": "ltr",
         "localname": "Turkish"
     },
-    "270": {
+    "271": {
         "code": "ts",
         "name": "Xitsonga",
         "site": [
@@ -6657,7 +6677,7 @@
         "dir": "ltr",
         "localname": "Tsonga"
     },
-    "271": {
+    "272": {
         "code": "tt",
         "name": "татарча/tatarça",
         "site": [
@@ -6690,7 +6710,7 @@
         "dir": "ltr",
         "localname": "Tatar"
     },
-    "272": {
+    "273": {
         "code": "tum",
         "name": "chiTumbuka",
         "site": [
@@ -6704,7 +6724,7 @@
         "dir": "ltr",
         "localname": "Tumbuka"
     },
-    "273": {
+    "274": {
         "code": "tw",
         "name": "Twi",
         "site": [
@@ -6725,7 +6745,7 @@
         "dir": "ltr",
         "localname": "Twi"
     },
-    "274": {
+    "275": {
         "code": "ty",
         "name": "reo tahiti",
         "site": [
@@ -6739,7 +6759,7 @@
         "dir": "ltr",
         "localname": "Tahitian"
     },
-    "275": {
+    "276": {
         "code": "tyv",
         "name": "тыва дыл",
         "site": [
@@ -6753,7 +6773,7 @@
         "dir": "ltr",
         "localname": "Tuvinian"
     },
-    "276": {
+    "277": {
         "code": "udm",
         "name": "удмурт",
         "site": [
@@ -6767,7 +6787,7 @@
         "dir": "ltr",
         "localname": "Udmurt"
     },
-    "277": {
+    "278": {
         "code": "ug",
         "name": "ئۇيغۇرچە / Uyghurche",
         "site": [
@@ -6801,7 +6821,7 @@
         "dir": "rtl",
         "localname": "Uyghur"
     },
-    "278": {
+    "279": {
         "code": "uk",
         "name": "українська",
         "site": [
@@ -6851,7 +6871,7 @@
         "dir": "ltr",
         "localname": "Ukrainian"
     },
-    "279": {
+    "280": {
         "code": "ur",
         "name": "اردو",
         "site": [
@@ -6883,7 +6903,7 @@
         "dir": "rtl",
         "localname": "Urdu"
     },
-    "280": {
+    "281": {
         "code": "uz",
         "name": "oʻzbekcha/ўзбекча",
         "site": [
@@ -6916,7 +6936,7 @@
         "dir": "ltr",
         "localname": "Uzbek"
     },
-    "281": {
+    "282": {
         "code": "ve",
         "name": "Tshivenda",
         "site": [
@@ -6930,7 +6950,7 @@
         "dir": "ltr",
         "localname": "Venda"
     },
-    "282": {
+    "283": {
         "code": "vec",
         "name": "vèneto",
         "site": [
@@ -6956,7 +6976,7 @@
         "dir": "ltr",
         "localname": "Venetian"
     },
-    "283": {
+    "284": {
         "code": "vep",
         "name": "vepsän kel’",
         "site": [
@@ -6970,7 +6990,7 @@
         "dir": "ltr",
         "localname": "Veps"
     },
-    "284": {
+    "285": {
         "code": "vi",
         "name": "Tiếng Việt",
         "site": [
@@ -7014,7 +7034,7 @@
         "dir": "ltr",
         "localname": "Vietnamese"
     },
-    "285": {
+    "286": {
         "code": "vls",
         "name": "West-Vlams",
         "site": [
@@ -7028,7 +7048,7 @@
         "dir": "ltr",
         "localname": "West Flemish"
     },
-    "286": {
+    "287": {
         "code": "vo",
         "name": "Volapük",
         "site": [
@@ -7062,7 +7082,7 @@
         "dir": "ltr",
         "localname": "Volapük"
     },
-    "287": {
+    "288": {
         "code": "wa",
         "name": "walon",
         "site": [
@@ -7089,7 +7109,7 @@
         "dir": "ltr",
         "localname": "Walloon"
     },
-    "288": {
+    "289": {
         "code": "war",
         "name": "Winaray",
         "site": [
@@ -7103,7 +7123,7 @@
         "dir": "ltr",
         "localname": "Waray"
     },
-    "289": {
+    "290": {
         "code": "wo",
         "name": "Wolof",
         "site": [
@@ -7129,7 +7149,7 @@
         "dir": "ltr",
         "localname": "Wolof"
     },
-    "290": {
+    "291": {
         "code": "wuu",
         "name": "吴语",
         "site": [
@@ -7143,7 +7163,7 @@
         "dir": "ltr",
         "localname": "Wu Chinese"
     },
-    "291": {
+    "292": {
         "code": "xal",
         "name": "хальмг",
         "site": [
@@ -7157,7 +7177,7 @@
         "dir": "ltr",
         "localname": "Kalmyk"
     },
-    "292": {
+    "293": {
         "code": "xh",
         "name": "isiXhosa",
         "site": [
@@ -7185,7 +7205,7 @@
         "dir": "ltr",
         "localname": "Xhosa"
     },
-    "293": {
+    "294": {
         "code": "xmf",
         "name": "მარგალური",
         "site": [
@@ -7199,7 +7219,7 @@
         "dir": "ltr",
         "localname": "Mingrelian"
     },
-    "294": {
+    "295": {
         "code": "yi",
         "name": "ייִדיש",
         "site": [
@@ -7225,7 +7245,7 @@
         "dir": "rtl",
         "localname": "Yiddish"
     },
-    "295": {
+    "296": {
         "code": "yo",
         "name": "Yorùbá",
         "site": [
@@ -7253,7 +7273,7 @@
         "dir": "ltr",
         "localname": "Yoruba"
     },
-    "296": {
+    "297": {
         "code": "za",
         "name": "Vahcuengh",
         "site": [
@@ -7288,7 +7308,7 @@
         "dir": "ltr",
         "localname": "Zhuang"
     },
-    "297": {
+    "298": {
         "code": "zea",
         "name": "Zeêuws",
         "site": [
@@ -7302,7 +7322,7 @@
         "dir": "ltr",
         "localname": "Zeelandic"
     },
-    "298": {
+    "299": {
         "code": "zh",
         "name": "中文",
         "site": [
@@ -7358,7 +7378,7 @@
         "dir": "ltr",
         "localname": "Chinese"
     },
-    "299": {
+    "300": {
         "code": "zh-classical",
         "name": "文言",
         "site": [
@@ -7372,7 +7392,7 @@
         "dir": "ltr",
         "localname": "Classical Chinese"
     },
-    "300": {
+    "301": {
         "code": "zh-min-nan",
         "name": "Bân-lâm-gú",
         "site": [
@@ -7412,7 +7432,7 @@
         "dir": "ltr",
         "localname": "Chinese (Min Nan)"
     },
-    "301": {
+    "302": {
         "code": "zh-yue",
         "name": "粵語",
         "site": [
@@ -7426,7 +7446,7 @@
         "dir": "ltr",
         "localname": "Cantonese"
     },
-    "302": {
+    "303": {
         "code": "zu",
         "name": "isiZulu",
         "site": [
@@ -7453,7 +7473,7 @@
         "dir": "ltr",
         "localname": "Zulu"
     },
-    "count": 928,
+    "count": 932,
     "specials": [
         {
             "url": "https://advisors.wikimedia.org",
@@ -7895,6 +7915,13 @@
             "sitename": "Wikimedia Portugal"
         },
         {
+            "url": "https://punjabi.wikimedia.org",
+            "dbname": "punjabiwikimedia",
+            "code": "punjabiwikimedia",
+            "sitename": "Punjabi Wikimedians",
+            "fishbowl": ""
+        },
+        {
             "url": "https://quality.wikimedia.org",
             "dbname": "qualitywiki",
             "code": "quality",
@@ -8162,6 +8189,12 @@
             "code": "wikimaniateam",
             "sitename": "WikimaniaTeam",
             "private": ""
+        },
+        {
+            "url": "https://yue.wiktionary.org",
+            "dbname": "yuewiktionary",
+            "code": "yuewiktionary",
+            "sitename": "維基辭典"
         },
         {
             "url": "https://zero.wikimedia.org",
