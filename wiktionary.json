@@ -286,7 +286,7 @@
     ],
     [
         "Javanese",
-        "Basa Jawa",
+        "Jawa",
         "jv"
     ],
     [
@@ -718,6 +718,11 @@
         "Yiddish",
         "ייִדיש",
         "yi"
+    ],
+    [
+        "Cantonese",
+        "粵語",
+        "yue"
     ],
     [
         "Chinese",
