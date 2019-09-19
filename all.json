@@ -2569,6 +2569,12 @@
                 "sitename": "विकिसूक्ति"
             },
             {
+                "url": "https://hi.wikisource.org",
+                "dbname": "hiwikisource",
+                "code": "wikisource",
+                "sitename": "विकिस्रोत"
+            },
+            {
                 "url": "https://hi.wikiversity.org",
                 "dbname": "hiwikiversity",
                 "code": "wikiversity",
@@ -7507,7 +7513,7 @@
         "dir": "ltr",
         "localname": "Zulu"
     },
-    "count": 934,
+    "count": 935,
     "specials": [
         {
             "url": "https://advisors.wikimedia.org",
