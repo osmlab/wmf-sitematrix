@@ -639,7 +639,8 @@
                 "url": "https://bg.wikinews.org",
                 "dbname": "bgwikinews",
                 "code": "wikinews",
-                "sitename": "Уикиновини"
+                "sitename": "Уикиновини",
+                "closed": ""
             },
             {
                 "url": "https://bg.wikiquote.org",
@@ -7513,7 +7514,7 @@
         "dir": "ltr",
         "localname": "Zulu"
     },
-    "count": 935,
+    "count": 936,
     "specials": [
         {
             "url": "https://advisors.wikimedia.org",
@@ -7944,6 +7945,13 @@
             "lang": "nostalgia",
             "sitename": "Wikipedia",
             "fishbowl": ""
+        },
+        {
+            "url": "https://nqo.wikipedia.org",
+            "dbname": "nqowiki",
+            "code": "nqo",
+            "lang": "nqo",
+            "sitename": "Wikipedia"
         },
         {
             "url": "https://nyc.wikimedia.org",
