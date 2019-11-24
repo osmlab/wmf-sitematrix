@@ -100,6 +100,11 @@
         "ba"
     ],
     [
+        "Balinese",
+        "Bali",
+        "ban"
+    ],
+    [
         "Bavarian",
         "Boarisch",
         "bar"
@@ -423,6 +428,11 @@
         "Gan Chinese",
         "贛語",
         "gan"
+    ],
+    [
+        "Guianan Creole",
+        "kriyòl gwiyannen",
+        "gcr"
     ],
     [
         "Scottish Gaelic",
@@ -835,6 +845,11 @@
         "mn"
     ],
     [
+        "Mon",
+        "ဘာသာ မန်",
+        "mnw"
+    ],
+    [
         "Marathi",
         "मराठी",
         "mr"
@@ -928,6 +943,11 @@
         "Novial",
         "Novial",
         "nov"
+    ],
+    [
+        "N’Ko",
+        "ߒߞߏ",
+        "nqo"
     ],
     [
         "Norman",
@@ -1238,6 +1258,11 @@
         "Silesian",
         "ślůnski",
         "szl"
+    ],
+    [
+        "Sakizaya",
+        "Sakizaya",
+        "szy"
     ],
     [
         "Tamil",

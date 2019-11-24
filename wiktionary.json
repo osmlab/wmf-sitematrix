@@ -385,6 +385,11 @@
         "mi"
     ],
     [
+        "Minangkabau",
+        "Minangkabau",
+        "min"
+    ],
+    [
         "Macedonian",
         "македонски",
         "mk"
@@ -543,6 +548,11 @@
         "Serbo-Croatian",
         "srpskohrvatski / српскохрватски",
         "sh"
+    ],
+    [
+        null,
+        null,
+        "shy"
     ],
     [
         "Sinhala",
