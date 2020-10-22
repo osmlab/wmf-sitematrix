@@ -116,7 +116,7 @@
     ],
     [
         "Balinese",
-        "Bali",
+        "Basa Bali",
         "ban"
     ],
     [
@@ -775,6 +775,11 @@
         "lij"
     ],
     [
+        "Ladin",
+        "Ladin",
+        "lld"
+    ],
+    [
         "Lombard",
         "lumbaart",
         "lmo"
@@ -1213,6 +1218,11 @@
         "Samoan",
         "Gagana Samoa",
         "sm"
+    ],
+    [
+        "Inari Sami",
+        "anarâškielâ",
+        "smn"
     ],
     [
         "Shona",
