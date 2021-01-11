@@ -612,6 +612,12 @@
                 "dbname": "bclwiki",
                 "code": "wiki",
                 "sitename": "Wikipedia"
+            },
+            {
+                "url": "https://bcl.wiktionary.org",
+                "dbname": "bclwiktionary",
+                "code": "wiktionary",
+                "sitename": "Wiksyunaryo"
             }
         ],
         "dir": "ltr",
@@ -7777,7 +7783,7 @@
         "dir": "ltr",
         "localname": "Zulu"
     },
-    "count": 965,
+    "count": 966,
     "specials": [
         {
             "url": "https://advisors.wikimedia.org",
