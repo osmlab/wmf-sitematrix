@@ -4853,6 +4853,12 @@
                 "dbname": "niawiki",
                 "code": "wiki",
                 "sitename": "Wikipedia"
+            },
+            {
+                "url": "https://nia.wiktionary.org",
+                "dbname": "niawiktionary",
+                "code": "wiktionary",
+                "sitename": "Wiktionary"
             }
         ],
         "dir": "ltr",
@@ -7765,7 +7771,7 @@
         "dir": "ltr",
         "localname": "Zulu"
     },
-    "count": 963,
+    "count": 964,
     "specials": [
         {
             "url": "https://advisors.wikimedia.org",
