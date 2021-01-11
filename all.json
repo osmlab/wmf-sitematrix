@@ -1529,6 +1529,12 @@
                 "dbname": "diqwiki",
                 "code": "wiki",
                 "sitename": "Wikipedia"
+            },
+            {
+                "url": "https://diq.wiktionary.org",
+                "dbname": "diqwiktionary",
+                "code": "wiktionary",
+                "sitename": "Wikiqısebend"
             }
         ],
         "dir": "ltr",
@@ -7771,7 +7777,7 @@
         "dir": "ltr",
         "localname": "Zulu"
     },
-    "count": 964,
+    "count": 965,
     "specials": [
         {
             "url": "https://advisors.wikimedia.org",
