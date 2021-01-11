@@ -390,8 +390,8 @@
         "fi"
     ],
     [
-        "Võro",
-        "Võro",
+        "võro",
+        "võro",
         "fiu-vro"
     ],
     [
@@ -691,7 +691,7 @@
     ],
     [
         "Komi-Permyak",
-        "Перем Коми",
+        "перем коми",
         "koi"
     ],
     [
@@ -950,6 +950,11 @@
         "new"
     ],
     [
+        "Nias",
+        "Li Niha",
+        "nia"
+    ],
+    [
         "Dutch",
         "Nederlands",
         "nl"
@@ -1001,7 +1006,7 @@
     ],
     [
         "Livvi-Karelian",
-        "Livvinkarjala",
+        "livvinkarjala",
         "olo"
     ],
     [
