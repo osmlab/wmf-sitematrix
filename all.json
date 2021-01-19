@@ -4122,7 +4122,8 @@
                 "url": "https://lrc.wikipedia.org",
                 "dbname": "lrcwiki",
                 "code": "wiki",
-                "sitename": "ڤیکیپئدیا"
+                "sitename": "ڤیکیپئدیا",
+                "closed": ""
             }
         ],
         "dir": "rtl",
@@ -6942,6 +6943,12 @@
                 "dbname": "trwikisource",
                 "code": "wikisource",
                 "sitename": "Vikikaynak"
+            },
+            {
+                "url": "https://tr.wikivoyage.org",
+                "dbname": "trwikivoyage",
+                "code": "wikivoyage",
+                "sitename": "Wikivoyage"
             }
         ],
         "dir": "ltr",
@@ -7783,7 +7790,7 @@
         "dir": "ltr",
         "localname": "Zulu"
     },
-    "count": 966,
+    "count": 967,
     "specials": [
         {
             "url": "https://advisors.wikimedia.org",
