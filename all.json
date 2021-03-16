@@ -4513,6 +4513,12 @@
                 "dbname": "mnwwiki",
                 "code": "wiki",
                 "sitename": "ဝဳကဳပဳဒဳယာ"
+            },
+            {
+                "url": "https://mnw.wiktionary.org",
+                "dbname": "mnwwiktionary",
+                "code": "wiktionary",
+                "sitename": "ဝိက်ရှေန်နရဳ"
             }
         ],
         "dir": "ltr",
@@ -6073,7 +6079,7 @@
     },
     "255": {
         "code": "shy",
-        "name": null,
+        "name": "tacawit",
         "site": [
             {
                 "url": "https://shy.wiktionary.org",
@@ -6082,7 +6088,8 @@
                 "sitename": "Wikasegzawal"
             }
         ],
-        "dir": "ltr"
+        "dir": "ltr",
+        "localname": "Shawiya"
     },
     "256": {
         "code": "si",
@@ -6660,6 +6667,20 @@
         "localname": "Tamil"
     },
     "277": {
+        "code": "tay",
+        "name": "Tayal",
+        "site": [
+            {
+                "url": "https://tay.wikipedia.org",
+                "dbname": "taywiki",
+                "code": "wiki",
+                "sitename": "Wikipidia"
+            }
+        ],
+        "dir": "ltr",
+        "localname": "Tayal"
+    },
+    "278": {
         "code": "tcy",
         "name": "ತುಳು",
         "site": [
@@ -6673,7 +6694,7 @@
         "dir": "ltr",
         "localname": "Tulu"
     },
-    "278": {
+    "279": {
         "code": "te",
         "name": "తెలుగు",
         "site": [
@@ -6711,7 +6732,7 @@
         "dir": "ltr",
         "localname": "Telugu"
     },
-    "279": {
+    "280": {
         "code": "tet",
         "name": "tetun",
         "site": [
@@ -6725,7 +6746,7 @@
         "dir": "ltr",
         "localname": "Tetum"
     },
-    "280": {
+    "281": {
         "code": "tg",
         "name": "тоҷикӣ",
         "site": [
@@ -6751,7 +6772,7 @@
         "dir": "ltr",
         "localname": "Tajik"
     },
-    "281": {
+    "282": {
         "code": "th",
         "name": "ไทย",
         "site": [
@@ -6796,7 +6817,7 @@
         "dir": "ltr",
         "localname": "Thai"
     },
-    "282": {
+    "283": {
         "code": "ti",
         "name": "ትግርኛ",
         "site": [
@@ -6816,7 +6837,7 @@
         "dir": "ltr",
         "localname": "Tigrinya"
     },
-    "283": {
+    "284": {
         "code": "tk",
         "name": "Türkmençe",
         "site": [
@@ -6850,7 +6871,7 @@
         "dir": "ltr",
         "localname": "Turkmen"
     },
-    "284": {
+    "285": {
         "code": "tl",
         "name": "Tagalog",
         "site": [
@@ -6876,7 +6897,7 @@
         "dir": "ltr",
         "localname": "Tagalog"
     },
-    "285": {
+    "286": {
         "code": "tn",
         "name": "Setswana",
         "site": [
@@ -6896,7 +6917,7 @@
         "dir": "ltr",
         "localname": "Tswana"
     },
-    "286": {
+    "287": {
         "code": "to",
         "name": "lea faka-Tonga",
         "site": [
@@ -6917,7 +6938,7 @@
         "dir": "ltr",
         "localname": "Tongan"
     },
-    "287": {
+    "288": {
         "code": "tpi",
         "name": "Tok Pisin",
         "site": [
@@ -6937,7 +6958,7 @@
         "dir": "ltr",
         "localname": "Tok Pisin"
     },
-    "288": {
+    "289": {
         "code": "tr",
         "name": "Türkçe",
         "site": [
@@ -6988,7 +7009,21 @@
         "dir": "ltr",
         "localname": "Turkish"
     },
-    "289": {
+    "290": {
+        "code": "trv",
+        "name": "Seediq",
+        "site": [
+            {
+                "url": "https://trv.wikipedia.org",
+                "dbname": "trvwiki",
+                "code": "wiki",
+                "sitename": "Wikipidiya"
+            }
+        ],
+        "dir": "ltr",
+        "localname": "Taroko"
+    },
+    "291": {
         "code": "ts",
         "name": "Xitsonga",
         "site": [
@@ -7008,7 +7043,7 @@
         "dir": "ltr",
         "localname": "Tsonga"
     },
-    "290": {
+    "292": {
         "code": "tt",
         "name": "татарча/tatarça",
         "site": [
@@ -7041,7 +7076,7 @@
         "dir": "ltr",
         "localname": "Tatar"
     },
-    "291": {
+    "293": {
         "code": "tum",
         "name": "chiTumbuka",
         "site": [
@@ -7055,7 +7090,7 @@
         "dir": "ltr",
         "localname": "Tumbuka"
     },
-    "292": {
+    "294": {
         "code": "tw",
         "name": "Twi",
         "site": [
@@ -7076,7 +7111,7 @@
         "dir": "ltr",
         "localname": "Twi"
     },
-    "293": {
+    "295": {
         "code": "ty",
         "name": "reo tahiti",
         "site": [
@@ -7090,7 +7125,7 @@
         "dir": "ltr",
         "localname": "Tahitian"
     },
-    "294": {
+    "296": {
         "code": "tyv",
         "name": "тыва дыл",
         "site": [
@@ -7104,7 +7139,7 @@
         "dir": "ltr",
         "localname": "Tuvinian"
     },
-    "295": {
+    "297": {
         "code": "udm",
         "name": "удмурт",
         "site": [
@@ -7118,7 +7153,7 @@
         "dir": "ltr",
         "localname": "Udmurt"
     },
-    "296": {
+    "298": {
         "code": "ug",
         "name": "ئۇيغۇرچە / Uyghurche",
         "site": [
@@ -7152,7 +7187,7 @@
         "dir": "rtl",
         "localname": "Uyghur"
     },
-    "297": {
+    "299": {
         "code": "uk",
         "name": "українська",
         "site": [
@@ -7202,7 +7237,7 @@
         "dir": "ltr",
         "localname": "Ukrainian"
     },
-    "298": {
+    "300": {
         "code": "ur",
         "name": "اردو",
         "site": [
@@ -7234,7 +7269,7 @@
         "dir": "rtl",
         "localname": "Urdu"
     },
-    "299": {
+    "301": {
         "code": "uz",
         "name": "oʻzbekcha/ўзбекча",
         "site": [
@@ -7267,7 +7302,7 @@
         "dir": "ltr",
         "localname": "Uzbek"
     },
-    "300": {
+    "302": {
         "code": "ve",
         "name": "Tshivenda",
         "site": [
@@ -7281,7 +7316,7 @@
         "dir": "ltr",
         "localname": "Venda"
     },
-    "301": {
+    "303": {
         "code": "vec",
         "name": "vèneto",
         "site": [
@@ -7307,7 +7342,7 @@
         "dir": "ltr",
         "localname": "Venetian"
     },
-    "302": {
+    "304": {
         "code": "vep",
         "name": "vepsän kel’",
         "site": [
@@ -7321,7 +7356,7 @@
         "dir": "ltr",
         "localname": "Veps"
     },
-    "303": {
+    "305": {
         "code": "vi",
         "name": "Tiếng Việt",
         "site": [
@@ -7365,7 +7400,7 @@
         "dir": "ltr",
         "localname": "Vietnamese"
     },
-    "304": {
+    "306": {
         "code": "vls",
         "name": "West-Vlams",
         "site": [
@@ -7379,7 +7414,7 @@
         "dir": "ltr",
         "localname": "West Flemish"
     },
-    "305": {
+    "307": {
         "code": "vo",
         "name": "Volapük",
         "site": [
@@ -7413,7 +7448,7 @@
         "dir": "ltr",
         "localname": "Volapük"
     },
-    "306": {
+    "308": {
         "code": "wa",
         "name": "walon",
         "site": [
@@ -7446,7 +7481,7 @@
         "dir": "ltr",
         "localname": "Walloon"
     },
-    "307": {
+    "309": {
         "code": "war",
         "name": "Winaray",
         "site": [
@@ -7460,7 +7495,7 @@
         "dir": "ltr",
         "localname": "Waray"
     },
-    "308": {
+    "310": {
         "code": "wo",
         "name": "Wolof",
         "site": [
@@ -7486,7 +7521,7 @@
         "dir": "ltr",
         "localname": "Wolof"
     },
-    "309": {
+    "311": {
         "code": "wuu",
         "name": "吴语",
         "site": [
@@ -7500,7 +7535,7 @@
         "dir": "ltr",
         "localname": "Wu Chinese"
     },
-    "310": {
+    "312": {
         "code": "xal",
         "name": "хальмг",
         "site": [
@@ -7514,7 +7549,7 @@
         "dir": "ltr",
         "localname": "Kalmyk"
     },
-    "311": {
+    "313": {
         "code": "xh",
         "name": "isiXhosa",
         "site": [
@@ -7542,7 +7577,7 @@
         "dir": "ltr",
         "localname": "Xhosa"
     },
-    "312": {
+    "314": {
         "code": "xmf",
         "name": "მარგალური",
         "site": [
@@ -7556,7 +7591,7 @@
         "dir": "ltr",
         "localname": "Mingrelian"
     },
-    "313": {
+    "315": {
         "code": "yi",
         "name": "ייִדיש",
         "site": [
@@ -7582,7 +7617,7 @@
         "dir": "rtl",
         "localname": "Yiddish"
     },
-    "314": {
+    "316": {
         "code": "yo",
         "name": "Yorùbá",
         "site": [
@@ -7610,7 +7645,7 @@
         "dir": "ltr",
         "localname": "Yoruba"
     },
-    "315": {
+    "317": {
         "code": "yue",
         "name": "粵語",
         "site": [
@@ -7624,7 +7659,7 @@
         "dir": "ltr",
         "localname": "Cantonese"
     },
-    "316": {
+    "318": {
         "code": "za",
         "name": "Vahcuengh",
         "site": [
@@ -7659,7 +7694,7 @@
         "dir": "ltr",
         "localname": "Zhuang"
     },
-    "317": {
+    "319": {
         "code": "zea",
         "name": "Zeêuws",
         "site": [
@@ -7673,7 +7708,7 @@
         "dir": "ltr",
         "localname": "Zeelandic"
     },
-    "318": {
+    "320": {
         "code": "zh",
         "name": "中文",
         "site": [
@@ -7729,7 +7764,7 @@
         "dir": "ltr",
         "localname": "Chinese"
     },
-    "319": {
+    "321": {
         "code": "zh-classical",
         "name": "文言",
         "site": [
@@ -7743,7 +7778,7 @@
         "dir": "ltr",
         "localname": "Classical Chinese"
     },
-    "320": {
+    "322": {
         "code": "zh-min-nan",
         "name": "Bân-lâm-gú",
         "site": [
@@ -7783,7 +7818,7 @@
         "dir": "ltr",
         "localname": "Chinese (Min Nan)"
     },
-    "321": {
+    "323": {
         "code": "zh-yue",
         "name": "粵語",
         "site": [
@@ -7797,7 +7832,7 @@
         "dir": "ltr",
         "localname": "Cantonese"
     },
-    "322": {
+    "324": {
         "code": "zu",
         "name": "isiZulu",
         "site": [
@@ -7824,7 +7859,7 @@
         "dir": "ltr",
         "localname": "Zulu"
     },
-    "count": 970,
+    "count": 973,
     "specials": [
         {
             "url": "https://advisors.wikimedia.org",
