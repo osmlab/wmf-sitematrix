@@ -146,7 +146,7 @@
     ],
     [
         "Belarusian (Taraškievica orthography)",
-        "беларуская (тарашкевіца)‎",
+        "беларуская (тарашкевіца)",
         "be-x-old"
     ],
     [
@@ -265,7 +265,7 @@
         "cr"
     ],
     [
-        "Crimean Turkish",
+        "Crimean Tatar",
         "qırımtatarca",
         "crh"
     ],
@@ -298,6 +298,11 @@
         "Danish",
         "dansk",
         "da"
+    ],
+    [
+        "Dagbani",
+        "dagbanli",
+        "dag"
     ],
     [
         "German",
@@ -786,7 +791,7 @@
     ],
     [
         "Lombard",
-        "lumbaart",
+        "lombard",
         "lmo"
     ],
     [
@@ -1151,7 +1156,7 @@
     ],
     [
         "Kinyarwanda",
-        "Kinyarwanda",
+        "Ikinyarwanda",
         "rw"
     ],
     [
@@ -1203,6 +1208,11 @@
         "Serbo-Croatian",
         "srpskohrvatski / српскохрватски",
         "sh"
+    ],
+    [
+        "Tachelhit",
+        "Taclḥit",
+        "shi"
     ],
     [
         "Shan",
