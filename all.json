@@ -3360,6 +3360,12 @@
                 "dbname": "jvwiktionary",
                 "code": "wiktionary",
                 "sitename": "Wiktionary"
+            },
+            {
+                "url": "https://jv.wikisource.org",
+                "dbname": "jvwikisource",
+                "code": "wikisource",
+                "sitename": "Wikisumber"
             }
         ],
         "dir": "ltr",
@@ -7893,7 +7899,7 @@
         "dir": "ltr",
         "localname": "Zulu"
     },
-    "count": 976,
+    "count": 977,
     "specials": [
         {
             "url": "https://advisors.wikimedia.org",
