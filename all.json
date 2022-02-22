@@ -30,7 +30,7 @@
     },
     "1": {
         "code": "ab",
-        "name": "Аҧсшәа",
+        "name": "аԥсшәа",
         "site": [
             {
                 "url": "https://ab.wikipedia.org",
@@ -8419,7 +8419,7 @@
             "private": ""
         },
         {
-            "url": "https://ombudsmen.wikimedia.org",
+            "url": "https://ombuds.wikimedia.org",
             "dbname": "ombudsmenwiki",
             "code": "ombudsmen",
             "lang": "en",
