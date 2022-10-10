@@ -15,6 +15,11 @@
         "az"
     ],
     [
+        "Central Bikol",
+        "Bikol Central",
+        "bcl"
+    ],
+    [
         "Belarusian",
         "беларуская",
         "be"
@@ -23,6 +28,11 @@
         "Bulgarian",
         "български",
         "bg"
+    ],
+    [
+        "Bangla",
+        "বাংলা",
+        "bn"
     ],
     [
         "Breton",
@@ -143,6 +153,11 @@
         "Indonesian",
         "Bahasa Indonesia",
         "id"
+    ],
+    [
+        "Igbo",
+        "Igbo",
+        "ig"
     ],
     [
         "Icelandic",
@@ -298,6 +313,11 @@
         "Thai",
         "ไทย",
         "th"
+    ],
+    [
+        "Tagalog",
+        "Tagalog",
+        "tl"
     ],
     [
         "Turkish",

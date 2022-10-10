@@ -652,6 +652,12 @@
                 "dbname": "bclwiktionary",
                 "code": "wiktionary",
                 "sitename": "Wiksyunaryo"
+            },
+            {
+                "url": "https://bcl.wikiquote.org",
+                "dbname": "bclwikiquote",
+                "code": "wikiquote",
+                "sitename": "Wikiquote"
             }
         ],
         "dir": "ltr",
@@ -900,6 +906,12 @@
                 "dbname": "bnwikibooks",
                 "code": "wikibooks",
                 "sitename": "উইকিবই"
+            },
+            {
+                "url": "https://bn.wikiquote.org",
+                "dbname": "bnwikiquote",
+                "code": "wikiquote",
+                "sitename": "Wikiquote"
             },
             {
                 "url": "https://bn.wikisource.org",
@@ -1193,7 +1205,7 @@
     },
     "52": {
         "code": "cho",
-        "name": "Choctaw",
+        "name": "Chahta Anumpa",
         "site": [
             {
                 "url": "https://cho.wikipedia.org",
@@ -3106,6 +3118,18 @@
                 "dbname": "igwiki",
                 "code": "wiki",
                 "sitename": "Wikipedia"
+            },
+            {
+                "url": "https://ig.wiktionary.org",
+                "dbname": "igwiktionary",
+                "code": "wiktionary",
+                "sitename": "Wiktionary"
+            },
+            {
+                "url": "https://ig.wikiquote.org",
+                "dbname": "igwikiquote",
+                "code": "wikiquote",
+                "sitename": "Wikiquote"
             }
         ],
         "dir": "ltr",
@@ -3128,7 +3152,7 @@
     },
     "126": {
         "code": "ik",
-        "name": "Iñupiak",
+        "name": "Iñupiatun",
         "site": [
             {
                 "url": "https://ik.wikipedia.org",
@@ -7040,6 +7064,12 @@
                 "dbname": "tlwikibooks",
                 "code": "wikibooks",
                 "sitename": "Wikibooks"
+            },
+            {
+                "url": "https://tl.wikiquote.org",
+                "dbname": "tlwikiquote",
+                "code": "wikiquote",
+                "sitename": "Wikiquote"
             }
         ],
         "dir": "ltr",
@@ -8007,7 +8037,7 @@
         "dir": "ltr",
         "localname": "Zulu"
     },
-    "count": 987,
+    "count": 992,
     "specials": [
         {
             "url": "https://advisors.wikimedia.org",
@@ -8597,7 +8627,8 @@
             "code": "searchcom",
             "lang": "en",
             "sitename": "Search Committee",
-            "private": ""
+            "private": "",
+            "closed": ""
         },
         {
             "url": "https://wikisource.org",
@@ -8612,7 +8643,8 @@
             "code": "spcom",
             "lang": "spcom",
             "sitename": "Spcom",
-            "private": ""
+            "private": "",
+            "closed": ""
         },
         {
             "url": "https://species.wikimedia.org",
@@ -8732,7 +8764,7 @@
             "url": "https://vote.wikimedia.org",
             "dbname": "votewiki",
             "code": "vote",
-            "lang": "en",
+            "lang": "zh",
             "sitename": "Wikimedia Vote Wiki",
             "fishbowl": ""
         },
