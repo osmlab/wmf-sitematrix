@@ -384,6 +384,12 @@
                 "closed": ""
             },
             {
+                "url": "https://as.wikiquote.org",
+                "dbname": "aswikiquote",
+                "code": "wikiquote",
+                "sitename": "ৱিকিউদ্ধৃতি"
+            },
+            {
                 "url": "https://as.wikisource.org",
                 "dbname": "aswikisource",
                 "code": "wikisource",
@@ -911,7 +917,7 @@
                 "url": "https://bn.wikiquote.org",
                 "dbname": "bnwikiquote",
                 "code": "wikiquote",
-                "sitename": "Wikiquote"
+                "sitename": "উইকিউক্তি"
             },
             {
                 "url": "https://bn.wikisource.org",
@@ -1135,7 +1141,7 @@
     },
     "48": {
         "code": "cdo",
-        "name": "Mìng-dĕ̤ng-ngṳ̄",
+        "name": "閩東語 / Mìng-dĕ̤ng-ngṳ̄",
         "site": [
             {
                 "url": "https://cdo.wikipedia.org",
@@ -2539,6 +2545,12 @@
                 "dbname": "gorwiki",
                 "code": "wiki",
                 "sitename": "Wikipedia"
+            },
+            {
+                "url": "https://gor.wiktionary.org",
+                "dbname": "gorwiktionary",
+                "code": "wiktionary",
+                "sitename": "Wikikamus"
             }
         ],
         "dir": "ltr",
@@ -2619,6 +2631,12 @@
                 "dbname": "guwwiktionary",
                 "code": "wiktionary",
                 "sitename": "Wiktionary"
+            },
+            {
+                "url": "https://guw.wikiquote.org",
+                "dbname": "guwwikiquote",
+                "code": "wikiquote",
+                "sitename": "Wikiquote"
             }
         ],
         "dir": "ltr",
@@ -6240,6 +6258,12 @@
                 "sitename": "ဝိၵ်ႇသျိၼ်ႇၼရီႇ"
             },
             {
+                "url": "https://shn.wikibooks.org",
+                "dbname": "shnwikibooks",
+                "code": "wikibooks",
+                "sitename": "ဝီႇၶီႇပပ်ႉ"
+            },
+            {
                 "url": "https://shn.wikivoyage.org",
                 "dbname": "shnwikivoyage",
                 "code": "wikivoyage",
@@ -8037,7 +8061,7 @@
         "dir": "ltr",
         "localname": "Zulu"
     },
-    "count": 992,
+    "count": 996,
     "specials": [
         {
             "url": "https://advisors.wikimedia.org",
@@ -8764,7 +8788,7 @@
             "url": "https://vote.wikimedia.org",
             "dbname": "votewiki",
             "code": "vote",
-            "lang": "zh",
+            "lang": "en",
             "sitename": "Wikimedia Vote Wiki",
             "fishbowl": ""
         },
