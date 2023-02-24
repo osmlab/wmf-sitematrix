@@ -3333,7 +3333,7 @@
     },
     "132": {
         "code": "iu",
-        "name": "ᐃᓄᒃᑎᑐᑦ/inuktitut",
+        "name": "ᐃᓄᒃᑎᑐᑦ / inuktitut",
         "site": [
             {
                 "url": "https://iu.wikipedia.org",
@@ -7247,7 +7247,7 @@
     },
     "300": {
         "code": "tt",
-        "name": "татарча/tatarça",
+        "name": "татарча / tatarça",
         "site": [
             {
                 "url": "https://tt.wikipedia.org",
@@ -7473,7 +7473,7 @@
     },
     "309": {
         "code": "uz",
-        "name": "oʻzbekcha/ўзбекча",
+        "name": "oʻzbekcha / ўзбекча",
         "site": [
             {
                 "url": "https://uz.wikipedia.org",
@@ -8061,7 +8061,7 @@
         "dir": "ltr",
         "localname": "Zulu"
     },
-    "count": 996,
+    "count": 997,
     "specials": [
         {
             "url": "https://advisors.wikimedia.org",
@@ -8156,6 +8156,14 @@
             "lang": "en",
             "sitename": "Audit Committee",
             "private": ""
+        },
+        {
+            "url": "https://az.wikimedia.org",
+            "dbname": "azwikimedia",
+            "code": "azwikimedia",
+            "lang": "az",
+            "sitename": "Azərbaycan vikimediaçıları istifadəçi qrupu",
+            "fishbowl": ""
         },
         {
             "url": "https://bd.wikimedia.org",
