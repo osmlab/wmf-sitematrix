@@ -11,16 +11,16 @@ var projects = [
 ];
 
 var fs = require('fs');
-
-var data = JSON.parse(fs.readFileSync("all.json", 'utf8'));
+let dataPath = "data";
+var data = JSON.parse(fs.readFileSync(`${dataPath}/all.json`, 'utf8'));
 
 console.log("Writing full site matrix...");
 var all = data.sitematrix;
-fs.writeFileSync('all.json', JSON.stringify(all, null, 4));
-fs.writeFileSync('all.min.json', JSON.stringify(all));
+fs.writeFileSync(`${dataPath}/all.json`, JSON.stringify(all, null, 4));
+fs.writeFileSync(`${dataPath}/all.min.json`, JSON.stringify(all));
 
 function writeProjectList(project) {
-    console.log("Writing list of " + project.name + " language editions...");
+    console.log(`Writing list of ${project.name} language editions...`);
     var wikis = [];
     for (var i = 0; (lang = all["" + i]); i++) {
         for (var j = 0; j < lang.site.length; j++) {
@@ -31,9 +31,9 @@ function writeProjectList(project) {
             }
         }
     }
-    fs.writeFileSync(project.name.toLowerCase() + ".json",
+    fs.writeFileSync(`${dataPath}/${project.name.toLowerCase()}.json`,
                      JSON.stringify(wikis, null, 4));
-    fs.writeFileSync(project.name.toLowerCase() + ".min.json",
+    fs.writeFileSync(`${dataPath}/${project.name.toLowerCase()}.min.json`,
                      JSON.stringify(wikis));
 }
 

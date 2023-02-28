@@ -1,6 +1,7 @@
 all:
-	wget -O all.json 'https://meta.wikimedia.org/w/api.php?action=sitematrix&uselang=en&format=json'
-	@node build.js
+	mkdir -p data/
+	wget -O data/all.json 'https://meta.wikimedia.org/w/api.php?action=sitematrix&uselang=en&format=json'
+	@node scripts/build.js
 
 clean:
-	rm -f all*.json wik*.json
+	rm -rf data/
