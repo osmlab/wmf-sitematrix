@@ -11,13 +11,13 @@ var projects = [
 ];
 
 var fs = require('fs');
-
-var data = JSON.parse(fs.readFileSync("data/all.json", 'utf8'));
+let dataPath = "data";
+var data = JSON.parse(fs.readFileSync(`${dataPath}/all.json`, 'utf8'));
 
 console.log("Writing full site matrix...");
 var all = data.sitematrix;
-fs.writeFileSync('data/all.json', JSON.stringify(all, null, 4));
-fs.writeFileSync('data/all.min.json', JSON.stringify(all));
+fs.writeFileSync(`${dataPath}/all.json`, JSON.stringify(all, null, 4));
+fs.writeFileSync(`${dataPath}/all.min.json`, JSON.stringify(all));
 
 function writeProjectList(project) {
     console.log(`Writing list of ${project.name} language editions...`);
@@ -31,9 +31,9 @@ function writeProjectList(project) {
             }
         }
     }
-    fs.writeFileSync(`data/${project.name.toLowerCase()}.json`,
+    fs.writeFileSync(`${dataPath}/${project.name.toLowerCase()}.json`,
                      JSON.stringify(wikis, null, 4));
-    fs.writeFileSync(`data/${project.name.toLowerCase()}.min.json`,
+    fs.writeFileSync(`${dataPath}/${project.name.toLowerCase()}.min.json`,
                      JSON.stringify(wikis));
 }
 
