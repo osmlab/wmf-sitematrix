@@ -23,6 +23,6 @@
   "author": "Minh Nguyễn",
   "license": "BSD",
   "devDependencies": {
-    "tap": "6.1.1"
+    "tap": "6.3.2"
   }
 }
