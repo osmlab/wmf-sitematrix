@@ -5,6 +5,7 @@
   "main": "index.js",
   "jsnext:main": "index.export.js",
   "scripts": {
+    "build": "node scripts/build.js",
     "test": "tap test/test.js"
   },
   "repository": {
