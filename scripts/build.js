@@ -10,21 +10,20 @@ var projects = [
     {prefix: "voy",     code: "wikivoyage",     name: "Wikivoyage"},
 ];
 
-var fs = require('fs');
+import * as fs from 'fs';
 let dataPath = "data";
-var data = JSON.parse(fs.readFileSync(`${dataPath}/all.json`, 'utf8'));
+let data = JSON.parse(fs.readFileSync(`${dataPath}/all.json`, 'utf8'));
 
 console.log("Writing full site matrix...");
-var all = data.sitematrix;
-fs.writeFileSync(`${dataPath}/all.json`, JSON.stringify(all, null, 4));
+let all = data.sitematrix;
 fs.writeFileSync(`${dataPath}/all.min.json`, JSON.stringify(all));
 
 function writeProjectList(project) {
     console.log(`Writing list of ${project.name} language editions...`);
-    var wikis = [];
-    for (var i = 0; (lang = all["" + i]); i++) {
-        for (var j = 0; j < lang.site.length; j++) {
-            var wiki = lang.site[j];
+    let wikis = [];
+    let lang;
+    for (let i = 0; (lang = all["" + i]); i++) {
+        for (let wiki of lang.site) {
             if (wiki.code === project.code && !("closed" in wiki)) {
                 wikis.push([lang.localname, lang.name, lang.code]);
                 break;
@@ -37,4 +36,4 @@ function writeProjectList(project) {
                      JSON.stringify(wikis));
 }
 
-for (var i = 0; i < projects.length; i++) writeProjectList(projects[i]);
+for (let project of projects) writeProjectList(project);
