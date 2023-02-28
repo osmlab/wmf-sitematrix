@@ -2,16 +2,10 @@
   "name": "wmf-sitematrix",
   "version": "0.1.5",
   "description": "list of Wikimedia wikis",
-  "type": "module",
   "main": "index.js",
   "jsnext:main": "index.export.js",
-  "config": {
-    "api": "https://meta.wikimedia.org/w/api.php?action=sitematrix&uselang=en&format=json"
-  },
   "scripts": {
     "build": "node scripts/build.js",
-    "clean": "rm -rf data/",
-    "fetch": "node scripts/fetch.js",
     "test": "tap test/test.js"
   },
   "repository": {
