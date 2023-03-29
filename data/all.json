@@ -1281,6 +1281,12 @@
                 "dbname": "ckbwiki",
                 "code": "wiki",
                 "sitename": "ویکیپیدیا"
+            },
+            {
+                "url": "https://ckb.wiktionary.org",
+                "dbname": "ckbwiktionary",
+                "code": "wiktionary",
+                "sitename": "ویکیفەرھەنگ"
             }
         ],
         "dir": "rtl",
@@ -8103,7 +8109,7 @@
         "dir": "ltr",
         "localname": "Zulu"
     },
-    "count": 1001,
+    "count": 1002,
     "specials": [
         {
             "url": "https://advisors.wikimedia.org",
