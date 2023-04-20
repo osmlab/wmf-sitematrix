@@ -864,7 +864,7 @@
                 "url": "https://blk.wikipedia.org",
                 "dbname": "blkwiki",
                 "code": "wiki",
-                "sitename": "Wikipedia"
+                "sitename": "ဝီခီပီးဒီးယား"
             }
         ],
         "dir": "ltr",
@@ -3612,6 +3612,12 @@
                 "dbname": "kcgwiki",
                 "code": "wiki",
                 "sitename": "Wikipedia"
+            },
+            {
+                "url": "https://kcg.wiktionary.org",
+                "dbname": "kcgwiktionary",
+                "code": "wiktionary",
+                "sitename": "Swánga̱lyiatwuki"
             }
         ],
         "dir": "ltr",
@@ -7765,7 +7771,8 @@
                 "url": "https://wo.wikiquote.org",
                 "dbname": "wowikiquote",
                 "code": "wikiquote",
-                "sitename": "Wikiquote"
+                "sitename": "Wikiquote",
+                "closed": ""
             }
         ],
         "dir": "ltr",
@@ -8109,7 +8116,7 @@
         "dir": "ltr",
         "localname": "Zulu"
     },
-    "count": 1002,
+    "count": 1003,
     "specials": [
         {
             "url": "https://advisors.wikimedia.org",
