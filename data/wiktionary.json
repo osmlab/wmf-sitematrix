@@ -510,6 +510,11 @@
         "nah"
     ],
     [
+        "Min Nan Chinese",
+        "Bân-lâm-gú",
+        "nan"
+    ],
+    [
         "Low German",
         "Plattdüütsch",
         "nds"
@@ -590,14 +595,14 @@
         "ro"
     ],
     [
-        "Aromanian",
-        "armãneashti",
-        "roa-rup"
-    ],
-    [
         "Russian",
         "русский",
         "ru"
+    ],
+    [
+        "Aromanian",
+        "armãneashti",
+        "rup"
     ],
     [
         "Kinyarwanda",
@@ -828,11 +833,6 @@
         "Chinese",
         "中文",
         "zh"
-    ],
-    [
-        "Chinese (Min Nan)",
-        "Bân-lâm-gú",
-        "zh-min-nan"
     ],
     [
         "Zulu",

@@ -225,6 +225,11 @@
         "mr"
     ],
     [
+        "Min Nan Chinese",
+        "Bân-lâm-gú",
+        "nan"
+    ],
+    [
         "Neapolitan",
         "Napulitano",
         "nap"
@@ -358,10 +363,5 @@
         "Chinese",
         "中文",
         "zh"
-    ],
-    [
-        "Chinese (Min Nan)",
-        "Bân-lâm-gú",
-        "zh-min-nan"
     ]
 ]

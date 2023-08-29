@@ -20,11 +20,6 @@
         "af"
     ],
     [
-        "Alemannisch",
-        "Alemannisch",
-        "als"
-    ],
-    [
         "Southern Altai",
         "алтай тил",
         "alt"
@@ -135,11 +130,6 @@
         "bar"
     ],
     [
-        "Samogitian",
-        "žemaitėška",
-        "bat-smg"
-    ],
-    [
         "Central Bikol",
         "Bikol Central",
         "bcl"
@@ -152,7 +142,7 @@
     [
         "Belarusian (Taraškievica orthography)",
         "беларуская (тарашкевіца)",
-        "be-x-old"
+        "be-tarask"
     ],
     [
         "Bulgarian",
@@ -415,11 +405,6 @@
         "fi"
     ],
     [
-        "võro",
-        "võro",
-        "fiu-vro"
-    ],
-    [
         "Fijian",
         "Na Vosa Vakaviti",
         "fj"
@@ -513,6 +498,11 @@
         "Ghanaian Pidgin",
         "Ghanaian Pidgin",
         "gpe"
+    ],
+    [
+        "Alemannic",
+        "Alemannisch",
+        "gsw"
     ],
     [
         "Gujarati",
@@ -860,6 +850,11 @@
         "lv"
     ],
     [
+        "Literary Chinese",
+        "文言",
+        "lzh"
+    ],
+    [
         "Madurese",
         "Madhurâ",
         "mad"
@@ -968,6 +963,11 @@
         "Nāhuatl",
         "Nāhuatl",
         "nah"
+    ],
+    [
+        "Min Nan Chinese",
+        "Bân-lâm-gú",
+        "nan"
     ],
     [
         "Neapolitan",
@@ -1180,11 +1180,6 @@
         "ro"
     ],
     [
-        "Aromanian",
-        "armãneashti",
-        "roa-rup"
-    ],
-    [
         "Tarantino",
         "tarandíne",
         "roa-tara"
@@ -1198,6 +1193,11 @@
         "Rusyn",
         "русиньскый",
         "rue"
+    ],
+    [
+        "Aromanian",
+        "armãneashti",
+        "rup"
     ],
     [
         "Kinyarwanda",
@@ -1248,6 +1248,11 @@
         "Sango",
         "Sängö",
         "sg"
+    ],
+    [
+        "Samogitian",
+        "žemaitėška",
+        "sgs"
     ],
     [
         "Serbo-Croatian",
@@ -1415,6 +1420,11 @@
         "tl"
     ],
     [
+        "Talysh",
+        "tolışi",
+        "tly"
+    ],
+    [
         "Tswana",
         "Setswana",
         "tn"
@@ -1525,6 +1535,11 @@
         "vo"
     ],
     [
+        "Võro",
+        "võro",
+        "vro"
+    ],
+    [
         "Walloon",
         "walon",
         "wa"
@@ -1570,6 +1585,11 @@
         "yo"
     ],
     [
+        "Cantonese",
+        "粵語",
+        "yue"
+    ],
+    [
         "Zhuang",
         "Vahcuengh",
         "za"
@@ -1583,21 +1603,6 @@
         "Chinese",
         "中文",
         "zh"
-    ],
-    [
-        "Classical Chinese",
-        "文言",
-        "zh-classical"
-    ],
-    [
-        "Chinese (Min Nan)",
-        "Bân-lâm-gú",
-        "zh-min-nan"
-    ],
-    [
-        "Cantonese",
-        "粵語",
-        "zh-yue"
     ],
     [
         "Zulu",
