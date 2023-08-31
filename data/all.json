@@ -111,7 +111,7 @@
     },
     "5": {
         "code": "ak",
-        "name": "Akan",
+        "name": null,
         "site": [
             {
                 "url": "https://ak.wikipedia.org",
@@ -135,8 +135,7 @@
                 "closed": ""
             }
         ],
-        "dir": "ltr",
-        "localname": "Akan"
+        "dir": "ltr"
     },
     "6": {
         "code": "als",
