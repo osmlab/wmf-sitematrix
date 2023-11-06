@@ -130,6 +130,11 @@
         "bar"
     ],
     [
+        "Batak Toba",
+        "Batak Toba",
+        "bbc"
+    ],
+    [
         "Central Bikol",
         "Bikol Central",
         "bcl"
@@ -308,6 +313,11 @@
         "German",
         "Deutsch",
         "de"
+    ],
+    [
+        "Dagaare",
+        "Dagaare",
+        "dga"
     ],
     [
         "Dinka",
@@ -1603,6 +1613,11 @@
         "Zeelandic",
         "Zeêuws",
         "zea"
+    ],
+    [
+        "Standard Moroccan Tamazight",
+        "ⵜⴰⵎⴰⵣⵉⵖⵜ ⵜⴰⵏⴰⵡⴰⵢⵜ",
+        "zgh"
     ],
     [
         "Chinese",
