@@ -856,7 +856,7 @@
                 "url": "https://bjn.wikiquote.org",
                 "dbname": "bjnwikiquote",
                 "code": "wikiquote",
-                "sitename": "Wikiquote"
+                "sitename": "Wikipapadah"
             }
         ],
         "dir": "ltr",
@@ -1652,7 +1652,7 @@
                 "url": "https://dga.wikipedia.org",
                 "dbname": "dgawiki",
                 "code": "wiki",
-                "sitename": "Wikipedia"
+                "sitename": "Wikipiideɛ"
             }
         ],
         "dir": "ltr",
@@ -4817,7 +4817,7 @@
     },
     "201": {
         "code": "mnw",
-        "name": "ဘာသာ မန်",
+        "name": "ဘာသာမန်",
         "site": [
             {
                 "url": "https://mnw.wikipedia.org",
@@ -8190,7 +8190,7 @@
                 "url": "https://zgh.wikipedia.org",
                 "dbname": "zghwiki",
                 "code": "wiki",
-                "sitename": "Wikipedia"
+                "sitename": "ⵡⵉⴽⵉⴱⵉⴷⵢⴰ"
             }
         ],
         "dir": "ltr",
