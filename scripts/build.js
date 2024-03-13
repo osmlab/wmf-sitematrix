@@ -11,7 +11,7 @@ var projects = [
 ];
 
 var fs = require('fs');
-let dataPath = "data";
+let dataPath = `${process.env.TOOL_DATA_DIR}/public_html/data`;
 var data = JSON.parse(fs.readFileSync(`${dataPath}/all.json`, 'utf8'));
 
 console.log("Writing full site matrix...");
