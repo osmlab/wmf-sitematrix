@@ -3665,6 +3665,12 @@
                 "dbname": "kawikiquote",
                 "code": "wikiquote",
                 "sitename": "ვიკიციტატა"
+            },
+            {
+                "url": "https://ka.wikisource.org",
+                "dbname": "kawikisource",
+                "code": "wikisource",
+                "sitename": "Wikisource"
             }
         ],
         "dir": "ltr",
@@ -8360,7 +8366,7 @@
         "dir": "ltr",
         "localname": "Zulu"
     },
-    "count": 1023,
+    "count": 1024,
     "specials": [
         {
             "url": "https://advisors.wikimedia.org",
