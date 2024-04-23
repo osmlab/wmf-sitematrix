@@ -150,6 +150,11 @@
         "be-tarask"
     ],
     [
+        "Betawi",
+        "Betawi",
+        "bew"
+    ],
+    [
         "Bulgarian",
         "български",
         "bg"
@@ -225,7 +230,7 @@
         "cbk-zam"
     ],
     [
-        "Min Dong Chinese",
+        "Mindong",
         "閩東語 / Mìng-dĕ̤ng-ngṳ̄",
         "cdo"
     ],
@@ -465,7 +470,7 @@
         "gag"
     ],
     [
-        "Gan Chinese",
+        "Gan",
         "贛語",
         "gan"
     ],
@@ -770,6 +775,11 @@
         "ku"
     ],
     [
+        "Kʋsaal",
+        "Kʋsaal",
+        "kus"
+    ],
+    [
         "Komi",
         "коми",
         "kv"
@@ -980,7 +990,7 @@
         "nah"
     ],
     [
-        "Min Nan Chinese",
+        "Minnan",
         "Bân-lâm-gú",
         "nan"
     ],
@@ -1570,7 +1580,7 @@
         "wo"
     ],
     [
-        "Wu Chinese",
+        "Wu",
         "吴语",
         "wuu"
     ],
