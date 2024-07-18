@@ -1098,6 +1098,12 @@
         "name": "Batak Mandailing",
         "site": [
             {
+                "url": "https://btm.wikipedia.org",
+                "dbname": "btmwiki",
+                "code": "wiki",
+                "sitename": "Wikipedia"
+            },
+            {
                 "url": "https://btm.wiktionary.org",
                 "dbname": "btmwiktionary",
                 "code": "wiktionary",
@@ -3684,7 +3690,7 @@
                 "url": "https://ka.wikisource.org",
                 "dbname": "kawikisource",
                 "code": "wikisource",
-                "sitename": "Wikisource"
+                "sitename": "ვიკიწყარო"
             }
         ],
         "dir": "ltr",
@@ -4982,13 +4988,13 @@
                 "url": "https://ms.wikibooks.org",
                 "dbname": "mswikibooks",
                 "code": "wikibooks",
-                "sitename": "Wikibooks"
+                "sitename": "Wikibuku"
             },
             {
                 "url": "https://ms.wikisource.org",
                 "dbname": "mswikisource",
                 "code": "wikisource",
-                "sitename": "Wikisource"
+                "sitename": "Wikisumber"
             }
         ],
         "dir": "ltr",
@@ -8380,7 +8386,7 @@
         "dir": "ltr",
         "localname": "Zulu"
     },
-    "count": 1026,
+    "count": 1030,
     "specials": [
         {
             "url": "https://advisors.wikimedia.org",
@@ -8397,6 +8403,14 @@
             "lang": "en",
             "sitename": "Advisory Board",
             "closed": ""
+        },
+        {
+            "url": "https://ae.wikimedia.org",
+            "dbname": "aewikimedia",
+            "code": "aewikimedia",
+            "lang": "en",
+            "sitename": "Wikimedia United Arab Emirates",
+            "fishbowl": ""
         },
         {
             "url": "https://am.wikimedia.org",
@@ -8450,6 +8464,14 @@
             "code": "arbcom-fi",
             "lang": "fi",
             "sitename": "Arbitration Committee",
+            "private": ""
+        },
+        {
+            "url": "https://wikipedia-it-arbcom.wikimedia.org",
+            "dbname": "arbcom_itwiki",
+            "code": "arbcom-it",
+            "lang": "it",
+            "sitename": "Wikipedia",
             "private": ""
         },
         {
@@ -9105,6 +9127,14 @@
             "sitename": "Transition Team Wiki",
             "private": "",
             "closed": ""
+        },
+        {
+            "url": "https://u4c.wikimedia.org",
+            "dbname": "u4cwiki",
+            "code": "u4c",
+            "lang": "en",
+            "sitename": "Wikipedia",
+            "private": ""
         },
         {
             "url": "https://ua.wikimedia.org",
