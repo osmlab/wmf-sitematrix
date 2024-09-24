@@ -140,6 +140,11 @@
         "bcl"
     ],
     [
+        "West Coast Bajau",
+        "Bajau Sama",
+        "bdr"
+    ],
+    [
         "Belarusian",
         "беларуская",
         "be"
@@ -566,7 +571,7 @@
     ],
     [
         "Hakka Chinese",
-        "客家語/Hak-kâ-ngî",
+        "客家語 / Hak-kâ-ngî",
         "hak"
     ],
     [
@@ -733,6 +738,11 @@
         "Kongo",
         "Kongo",
         "kg"
+    ],
+    [
+        "Komering",
+        "Basa Kumoring",
+        "kge"
     ],
     [
         "Kikuyu",
@@ -958,6 +968,11 @@
         "Mon",
         "ဘာသာမန်",
         "mnw"
+    ],
+    [
+        "Mossi",
+        "moore",
+        "mos"
     ],
     [
         "Marathi",
