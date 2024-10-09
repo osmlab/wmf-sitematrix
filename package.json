@@ -1,6 +1,6 @@
 {
   "name": "wmf-sitematrix",
-  "version": "0.1.5",
+  "version": "0.2.0",
   "description": "list of Wikimedia wikis",
   "main": "index.js",
   "jsnext:main": "index.export.js",
