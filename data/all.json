@@ -3826,7 +3826,7 @@
     },
     "158": {
         "code": "kge",
-        "name": "Basa Kumoring",
+        "name": "Kumoring",
         "site": [
             {
                 "url": "https://kge.wikipedia.org",
@@ -4177,7 +4177,7 @@
             }
         ],
         "dir": "ltr",
-        "localname": "Kʋsaal"
+        "localname": "Kusaal"
     },
     "173": {
         "code": "kv",
@@ -4693,7 +4693,7 @@
             }
         ],
         "dir": "ltr",
-        "localname": "Basa Banyumasan"
+        "localname": "Banyumasan"
     },
     "197": {
         "code": "mdf",
@@ -5230,7 +5230,7 @@
             }
         ],
         "dir": "ltr",
-        "localname": "Nāhuatl"
+        "localname": "Nahuatl"
     },
     "221": {
         "code": "nan",
@@ -8831,8 +8831,7 @@
             "dbname": "labswiki",
             "code": "labs",
             "lang": "labs",
-            "sitename": "Wikipedia",
-            "nonglobal": ""
+            "sitename": "Wikipedia"
         },
         {
             "url": "https://labtestwikitech.wikimedia.org",
