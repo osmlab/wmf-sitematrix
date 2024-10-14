@@ -45,6 +45,11 @@
         "ang"
     ],
     [
+        "Obolo",
+        "Obolo",
+        "ann"
+    ],
+    [
         "Angika",
         "अंगिका",
         "anp"
@@ -630,6 +635,11 @@
         "ia"
     ],
     [
+        "Iban",
+        "Jaku Iban",
+        "iba"
+    ],
+    [
         "Indonesian",
         "Bahasa Indonesia",
         "id"
@@ -1080,6 +1090,11 @@
         "nqo"
     ],
     [
+        "South Ndebele",
+        "isiNdebele seSewula",
+        "nr"
+    ],
+    [
         "Norman",
         "Nouormand",
         "nrm"
@@ -1238,6 +1253,11 @@
         "Tarantino",
         "tarandíne",
         "roa-tara"
+    ],
+    [
+        "Pannonian Rusyn",
+        "руски",
+        "rsk"
     ],
     [
         "Russian",
@@ -1438,6 +1458,11 @@
         "Tulu",
         "ತುಳು",
         "tcy"
+    ],
+    [
+        "Tai Nuea",
+        "ᥖᥭᥰ ᥖᥬᥲ ᥑᥨᥒᥰ",
+        "tdd"
     ],
     [
         "Telugu",
