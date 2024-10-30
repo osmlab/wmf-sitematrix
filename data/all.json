@@ -61,7 +61,7 @@
             }
         ],
         "dir": "ltr",
-        "localname": "Achinese"
+        "localname": "Acehnese"
     },
     "3": {
         "code": "ady",
@@ -268,7 +268,7 @@
                 "url": "https://ann.wikipedia.org",
                 "dbname": "annwiki",
                 "code": "wiki",
-                "sitename": "Wikipedia"
+                "sitename": "Wìkìpedia"
             }
         ],
         "dir": "ltr",
@@ -1768,7 +1768,7 @@
     },
     "77": {
         "code": "dtp",
-        "name": "Dusun Bundu-liwan",
+        "name": "Kadazandusun",
         "site": [
             {
                 "url": "https://dtp.wikipedia.org",
@@ -2711,7 +2711,7 @@
                 "url": "https://gor.wikiquote.org",
                 "dbname": "gorwikiquote",
                 "code": "wikiquote",
-                "sitename": "Wikiquote"
+                "sitename": "Wikilumadu"
             }
         ],
         "dir": "ltr",
@@ -3770,7 +3770,7 @@
                 "url": "https://kaa.wiktionary.org",
                 "dbname": "kaawiktionary",
                 "code": "wiktionary",
-                "sitename": "Wiktionary"
+                "sitename": "Wikisózlik"
             }
         ],
         "dir": "ltr",
@@ -3866,7 +3866,7 @@
                 "url": "https://kge.wikipedia.org",
                 "dbname": "kgewiki",
                 "code": "wiki",
-                "sitename": "Wikipedia"
+                "sitename": "Wikipidiya"
             }
         ],
         "dir": "ltr",
@@ -4695,7 +4695,7 @@
                 "url": "https://mad.wiktionary.org",
                 "dbname": "madwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wiktionary"
+                "sitename": "Wikikamus"
             }
         ],
         "dir": "ltr",
@@ -5004,7 +5004,7 @@
                 "url": "https://mos.wikipedia.org",
                 "dbname": "moswiki",
                 "code": "wiki",
-                "sitename": "Wikipedia"
+                "sitename": "Wikipidiya"
             }
         ],
         "dir": "ltr",
@@ -5605,7 +5605,7 @@
                 "url": "https://nr.wikipedia.org",
                 "dbname": "nrwiki",
                 "code": "wiki",
-                "sitename": "Wikipedia"
+                "sitename": "Wikiphidiya"
             }
         ],
         "dir": "ltr",
@@ -6315,7 +6315,7 @@
                 "url": "https://rsk.wikipedia.org",
                 "dbname": "rskwiki",
                 "code": "wiki",
-                "sitename": "Wikipedia"
+                "sitename": "Википедия"
             }
         ],
         "dir": "ltr",
@@ -6706,7 +6706,7 @@
                 "url": "https://shn.wikinews.org",
                 "dbname": "shnwikinews",
                 "code": "wikinews",
-                "sitename": "Wikinews"
+                "sitename": "ဝီႇၶီႇၶၢဝ်ႇ"
             },
             {
                 "url": "https://shn.wikivoyage.org",
@@ -7336,6 +7336,18 @@
                 "dbname": "tcywiki",
                 "code": "wiki",
                 "sitename": "ವಿಕಿಪೀಡಿಯ"
+            },
+            {
+                "url": "https://tcy.wiktionary.org",
+                "dbname": "tcywiktionary",
+                "code": "wiktionary",
+                "sitename": "Wiktionary"
+            },
+            {
+                "url": "https://tcy.wikisource.org",
+                "dbname": "tcywikisource",
+                "code": "wikisource",
+                "sitename": "Wikisource"
             }
         ],
         "dir": "ltr",
@@ -7349,7 +7361,7 @@
                 "url": "https://tdd.wikipedia.org",
                 "dbname": "tddwiki",
                 "code": "wiki",
-                "sitename": "Wikipedia"
+                "sitename": "ᥝᥤᥱ ᥑᥤᥱ ᥚᥤᥱ ᥖᥤᥱ ᥕᥣᥱ"
             }
         ],
         "dir": "ltr",
@@ -8528,7 +8540,7 @@
         "dir": "ltr",
         "localname": "Zulu"
     },
-    "count": 1043,
+    "count": 1045,
     "specials": [
         {
             "url": "https://advisors.wikimedia.org",
