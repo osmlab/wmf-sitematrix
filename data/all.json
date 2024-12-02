@@ -3332,6 +3332,12 @@
                 "dbname": "idwikisource",
                 "code": "wikisource",
                 "sitename": "Wikisumber"
+            },
+            {
+                "url": "https://id.wikivoyage.org",
+                "dbname": "idwikivoyage",
+                "code": "wikivoyage",
+                "sitename": "Wikivoyage"
             }
         ],
         "dir": "ltr",
@@ -7341,13 +7347,13 @@
                 "url": "https://tcy.wiktionary.org",
                 "dbname": "tcywiktionary",
                 "code": "wiktionary",
-                "sitename": "Wiktionary"
+                "sitename": "ವಿಕ್ಷನರಿ"
             },
             {
                 "url": "https://tcy.wikisource.org",
                 "dbname": "tcywikisource",
                 "code": "wikisource",
-                "sitename": "Wikisource"
+                "sitename": "ವಿಕಿಸೋರ್ಸ್"
             }
         ],
         "dir": "ltr",
@@ -8922,14 +8928,6 @@
             "sitename": "Wikipedia"
         },
         {
-            "url": "https://labtestwikitech.wikimedia.org",
-            "dbname": "labtestwiki",
-            "code": "labtest",
-            "lang": "labtest",
-            "sitename": "Wikipedia",
-            "nonglobal": ""
-        },
-        {
             "url": "https://legalteam.wikimedia.org",
             "dbname": "legalteamwiki",
             "code": "legalteam",
@@ -9247,8 +9245,7 @@
             "dbname": "testcommonswiki",
             "code": "testcommons",
             "lang": "testcommons",
-            "sitename": "Test Wikimedia Commons",
-            "closed": ""
+            "sitename": "Test Wikimedia Commons"
         },
         {
             "url": "https://test.wikidata.org",
