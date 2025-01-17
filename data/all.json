@@ -7524,7 +7524,7 @@
                 "url": "https://tig.wikipedia.org",
                 "dbname": "tigwiki",
                 "code": "wiki",
-                "sitename": "Wikipedia"
+                "sitename": "ዊኪፒድያ"
             }
         ],
         "dir": "ltr",
@@ -8560,7 +8560,7 @@
         "dir": "ltr",
         "localname": "Zulu"
     },
-    "count": 1046,
+    "count": 1047,
     "specials": [
         {
             "url": "https://advisors.wikimedia.org",
@@ -8662,6 +8662,14 @@
             "code": "arbcom-ru",
             "lang": "ru",
             "sitename": "Арбитражный комитет русской Википедии",
+            "private": ""
+        },
+        {
+            "url": "https://wikipedia-zh-arbcom.wikimedia.org",
+            "dbname": "arbcom_zhwiki",
+            "code": "arbcom-zh",
+            "lang": "zh",
+            "sitename": "中文维基百科仲裁委员会",
             "private": ""
         },
         {
