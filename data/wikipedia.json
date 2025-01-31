@@ -335,7 +335,7 @@
         "de"
     ],
     [
-        "Dagaare",
+        "Southern Dagaare",
         "Dagaare",
         "dga"
     ],
@@ -345,7 +345,7 @@
         "din"
     ],
     [
-        "Zazaki",
+        "Dimli",
         "Zazaki",
         "diq"
     ],
@@ -780,6 +780,11 @@
         "kn"
     ],
     [
+        "Central Kanuri",
+        "Yerwa Kanuri",
+        "knc"
+    ],
+    [
         "Korean",
         "한국어",
         "ko"
@@ -1185,7 +1190,7 @@
         "pi"
     ],
     [
-        "Norfuk / Pitkern",
+        "Pitcairn-Norfolk",
         "Norfuk / Pitkern",
         "pih"
     ],
@@ -1450,7 +1455,7 @@
         "ta"
     ],
     [
-        "Tayal",
+        "Atayal",
         "Tayal",
         "tay"
     ],
