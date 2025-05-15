@@ -1110,6 +1110,11 @@
         "nso"
     ],
     [
+        "Nupe",
+        "Nupe",
+        "nup"
+    ],
+    [
         "Navajo",
         "Diné bizaad",
         "nv"
@@ -1188,11 +1193,6 @@
         "Pali",
         "पालि",
         "pi"
-    ],
-    [
-        "Pitcairn-Norfolk",
-        "Norfuk / Pitkern",
-        "pih"
     ],
     [
         "Polish",
@@ -1346,7 +1346,7 @@
     ],
     [
         "Shan",
-        "ၽႃႇသႃႇတႆး ",
+        "တႆး",
         "shn"
     ],
     [
@@ -1438,6 +1438,11 @@
         "Swahili",
         "Kiswahili",
         "sw"
+    ],
+    [
+        "Sylheti",
+        "ꠍꠤꠟꠐꠤ",
+        "syl"
     ],
     [
         "Silesian",
