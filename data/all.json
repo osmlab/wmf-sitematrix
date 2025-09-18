@@ -5123,6 +5123,12 @@
                 "sitename": "Wikibuku"
             },
             {
+                "url": "https://ms.wikiquote.org",
+                "dbname": "mswikiquote",
+                "code": "wikiquote",
+                "sitename": "Wikiquote"
+            },
+            {
                 "url": "https://ms.wikisource.org",
                 "dbname": "mswikisource",
                 "code": "wikisource",
@@ -7659,7 +7665,7 @@
                 "url": "https://tl.wiktionary.org",
                 "dbname": "tlwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wiktionary"
+                "sitename": "Wiksiyonaryo"
             },
             {
                 "url": "https://tl.wikibooks.org",
@@ -8653,7 +8659,7 @@
         "dir": "ltr",
         "localname": "Zulu"
     },
-    "count": 1057,
+    "count": 1059,
     "specials": [
         {
             "url": "https://advisors.wikimedia.org",
@@ -9368,6 +9374,14 @@
             "code": "testwikidata",
             "lang": "testwikidata",
             "sitename": "Wikipedia"
+        },
+        {
+            "url": "https://th.wikimedia.org",
+            "dbname": "thwikimedia",
+            "code": "thwikimedia",
+            "lang": "th",
+            "sitename": "Wikimedia",
+            "fishbowl": ""
         },
         {
             "url": "https://thankyou.wikipedia.org",
