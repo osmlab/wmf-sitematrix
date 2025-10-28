@@ -558,7 +558,7 @@
                 "url": "https://az.wiktionary.org",
                 "dbname": "azwiktionary",
                 "code": "wiktionary",
-                "sitename": "Wiktionary"
+                "sitename": "Vikilüğət"
             },
             {
                 "url": "https://az.wikibooks.org",
@@ -4885,6 +4885,12 @@
                 "dbname": "minwikibooks",
                 "code": "wikibooks",
                 "sitename": "Wikibuku"
+            },
+            {
+                "url": "https://min.wikisource.org",
+                "dbname": "minwikisource",
+                "code": "wikisource",
+                "sitename": "Wikisource"
             }
         ],
         "dir": "ltr",
@@ -5126,7 +5132,7 @@
                 "url": "https://ms.wikiquote.org",
                 "dbname": "mswikiquote",
                 "code": "wikiquote",
-                "sitename": "Wikiquote"
+                "sitename": "Wikipetik"
             },
             {
                 "url": "https://ms.wikisource.org",
@@ -5922,6 +5928,12 @@
                 "dbname": "pcmwiki",
                 "code": "wiki",
                 "sitename": "Wikipedia"
+            },
+            {
+                "url": "https://pcm.wikiquote.org",
+                "dbname": "pcmwikiquote",
+                "code": "wikiquote",
+                "sitename": "Wikiquote"
             }
         ],
         "dir": "ltr",
@@ -8659,7 +8671,7 @@
         "dir": "ltr",
         "localname": "Zulu"
     },
-    "count": 1059,
+    "count": 1062,
     "specials": [
         {
             "url": "https://advisors.wikimedia.org",
@@ -8753,6 +8765,14 @@
             "code": "arbcom-nl",
             "lang": "nl",
             "sitename": "Arbitration Committee",
+            "private": ""
+        },
+        {
+            "url": "https://wikipedia-pl-arbcom.wikimedia.org",
+            "dbname": "arbcom_plwiki",
+            "code": "arbcom-pl",
+            "lang": "pl",
+            "sitename": "Komitet Arbitrażowy",
             "private": ""
         },
         {
@@ -8966,7 +8986,7 @@
             "dbname": "gewikimedia",
             "code": "gewikimedia",
             "lang": "ka",
-            "sitename": "ვიკიმედიის მომხმარებელთა საქართველოს ჯგუფი",
+            "sitename": "ვიკიმედია საქართველო",
             "fishbowl": ""
         },
         {
@@ -9380,8 +9400,7 @@
             "dbname": "thwikimedia",
             "code": "thwikimedia",
             "lang": "th",
-            "sitename": "Wikimedia",
-            "fishbowl": ""
+            "sitename": "Wikimedia"
         },
         {
             "url": "https://thankyou.wikipedia.org",
