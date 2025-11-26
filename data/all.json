@@ -4890,7 +4890,7 @@
                 "url": "https://min.wikisource.org",
                 "dbname": "minwikisource",
                 "code": "wikisource",
-                "sitename": "Wikisource"
+                "sitename": "Wikibasurek"
             }
         ],
         "dir": "ltr",
@@ -5933,7 +5933,7 @@
                 "url": "https://pcm.wikiquote.org",
                 "dbname": "pcmwikiquote",
                 "code": "wikiquote",
-                "sitename": "Wikiquote"
+                "sitename": "Wikitok"
             }
         ],
         "dir": "ltr",
@@ -7757,6 +7757,20 @@
         "localname": "Tongan"
     },
     "328": {
+        "code": "tok",
+        "name": "toki pona",
+        "site": [
+            {
+                "url": "https://tok.wikipedia.org",
+                "dbname": "tokwiki",
+                "code": "wiki",
+                "sitename": "Wikipedia"
+            }
+        ],
+        "dir": "ltr",
+        "localname": "Toki Pona"
+    },
+    "329": {
         "code": "tpi",
         "name": "Tok Pisin",
         "site": [
@@ -7776,7 +7790,7 @@
         "dir": "ltr",
         "localname": "Tok Pisin"
     },
-    "329": {
+    "330": {
         "code": "tr",
         "name": "Türkçe",
         "site": [
@@ -7827,7 +7841,7 @@
         "dir": "ltr",
         "localname": "Turkish"
     },
-    "330": {
+    "331": {
         "code": "trv",
         "name": "Seediq",
         "site": [
@@ -7841,7 +7855,7 @@
         "dir": "ltr",
         "localname": "Taroko"
     },
-    "331": {
+    "332": {
         "code": "ts",
         "name": "Xitsonga",
         "site": [
@@ -7861,7 +7875,7 @@
         "dir": "ltr",
         "localname": "Tsonga"
     },
-    "332": {
+    "333": {
         "code": "tt",
         "name": "татарча / tatarça",
         "site": [
@@ -7894,7 +7908,7 @@
         "dir": "ltr",
         "localname": "Tatar"
     },
-    "333": {
+    "334": {
         "code": "tum",
         "name": "chiTumbuka",
         "site": [
@@ -7908,7 +7922,7 @@
         "dir": "ltr",
         "localname": "Tumbuka"
     },
-    "334": {
+    "335": {
         "code": "tw",
         "name": "Twi",
         "site": [
@@ -7929,7 +7943,7 @@
         "dir": "ltr",
         "localname": "Twi"
     },
-    "335": {
+    "336": {
         "code": "ty",
         "name": "reo tahiti",
         "site": [
@@ -7943,7 +7957,7 @@
         "dir": "ltr",
         "localname": "Tahitian"
     },
-    "336": {
+    "337": {
         "code": "tyv",
         "name": "тыва дыл",
         "site": [
@@ -7957,7 +7971,7 @@
         "dir": "ltr",
         "localname": "Tuvinian"
     },
-    "337": {
+    "338": {
         "code": "udm",
         "name": "удмурт",
         "site": [
@@ -7971,7 +7985,7 @@
         "dir": "ltr",
         "localname": "Udmurt"
     },
-    "338": {
+    "339": {
         "code": "ug",
         "name": "ئۇيغۇرچە / Uyghurche",
         "site": [
@@ -8005,7 +8019,7 @@
         "dir": "rtl",
         "localname": "Uyghur"
     },
-    "339": {
+    "340": {
         "code": "uk",
         "name": "українська",
         "site": [
@@ -8055,7 +8069,7 @@
         "dir": "ltr",
         "localname": "Ukrainian"
     },
-    "340": {
+    "341": {
         "code": "ur",
         "name": "اردو",
         "site": [
@@ -8087,7 +8101,7 @@
         "dir": "rtl",
         "localname": "Urdu"
     },
-    "341": {
+    "342": {
         "code": "uz",
         "name": "oʻzbekcha / ўзбекча",
         "site": [
@@ -8120,7 +8134,7 @@
         "dir": "ltr",
         "localname": "Uzbek"
     },
-    "342": {
+    "343": {
         "code": "ve",
         "name": "Tshivenda",
         "site": [
@@ -8134,7 +8148,7 @@
         "dir": "ltr",
         "localname": "Venda"
     },
-    "343": {
+    "344": {
         "code": "vec",
         "name": "vèneto",
         "site": [
@@ -8160,7 +8174,7 @@
         "dir": "ltr",
         "localname": "Venetian"
     },
-    "344": {
+    "345": {
         "code": "vep",
         "name": "vepsän kel’",
         "site": [
@@ -8174,7 +8188,7 @@
         "dir": "ltr",
         "localname": "Veps"
     },
-    "345": {
+    "346": {
         "code": "vi",
         "name": "Tiếng Việt",
         "site": [
@@ -8218,7 +8232,7 @@
         "dir": "ltr",
         "localname": "Vietnamese"
     },
-    "346": {
+    "347": {
         "code": "vls",
         "name": "West-Vlams",
         "site": [
@@ -8232,7 +8246,7 @@
         "dir": "ltr",
         "localname": "West Flemish"
     },
-    "347": {
+    "348": {
         "code": "vo",
         "name": "Volapük",
         "site": [
@@ -8266,7 +8280,7 @@
         "dir": "ltr",
         "localname": "Volapük"
     },
-    "348": {
+    "349": {
         "code": "vro",
         "name": "võro",
         "site": [
@@ -8280,7 +8294,7 @@
         "dir": "ltr",
         "localname": "Võro"
     },
-    "349": {
+    "350": {
         "code": "wa",
         "name": "walon",
         "site": [
@@ -8313,7 +8327,7 @@
         "dir": "ltr",
         "localname": "Walloon"
     },
-    "350": {
+    "351": {
         "code": "war",
         "name": "Winaray",
         "site": [
@@ -8327,7 +8341,7 @@
         "dir": "ltr",
         "localname": "Waray"
     },
-    "351": {
+    "352": {
         "code": "wo",
         "name": "Wolof",
         "site": [
@@ -8354,7 +8368,7 @@
         "dir": "ltr",
         "localname": "Wolof"
     },
-    "352": {
+    "353": {
         "code": "wuu",
         "name": "吴语",
         "site": [
@@ -8368,7 +8382,7 @@
         "dir": "ltr",
         "localname": "Wu"
     },
-    "353": {
+    "354": {
         "code": "xal",
         "name": "хальмг",
         "site": [
@@ -8382,7 +8396,7 @@
         "dir": "ltr",
         "localname": "Kalmyk"
     },
-    "354": {
+    "355": {
         "code": "xh",
         "name": "isiXhosa",
         "site": [
@@ -8410,7 +8424,7 @@
         "dir": "ltr",
         "localname": "Xhosa"
     },
-    "355": {
+    "356": {
         "code": "xmf",
         "name": "მარგალური",
         "site": [
@@ -8424,7 +8438,7 @@
         "dir": "ltr",
         "localname": "Mingrelian"
     },
-    "356": {
+    "357": {
         "code": "yi",
         "name": "ייִדיש",
         "site": [
@@ -8450,7 +8464,7 @@
         "dir": "rtl",
         "localname": "Yiddish"
     },
-    "357": {
+    "358": {
         "code": "yo",
         "name": "Yorùbá",
         "site": [
@@ -8478,7 +8492,7 @@
         "dir": "ltr",
         "localname": "Yoruba"
     },
-    "358": {
+    "359": {
         "code": "yue",
         "name": "粵語",
         "site": [
@@ -8498,7 +8512,7 @@
         "dir": "ltr",
         "localname": "Cantonese"
     },
-    "359": {
+    "360": {
         "code": "za",
         "name": "Vahcuengh",
         "site": [
@@ -8533,7 +8547,7 @@
         "dir": "ltr",
         "localname": "Zhuang"
     },
-    "360": {
+    "361": {
         "code": "zea",
         "name": "Zeêuws",
         "site": [
@@ -8547,7 +8561,7 @@
         "dir": "ltr",
         "localname": "Zeelandic"
     },
-    "361": {
+    "362": {
         "code": "zgh",
         "name": "ⵜⴰⵎⴰⵣⵉⵖⵜ ⵜⴰⵏⴰⵡⴰⵢⵜ",
         "site": [
@@ -8567,7 +8581,7 @@
         "dir": "ltr",
         "localname": "Standard Moroccan Tamazight"
     },
-    "362": {
+    "363": {
         "code": "zh",
         "name": "中文",
         "site": [
@@ -8623,28 +8637,28 @@
         "dir": "ltr",
         "localname": "Chinese"
     },
-    "363": {
+    "364": {
         "code": "zh-classical",
         "name": "文言",
         "site": [],
         "dir": "ltr",
         "localname": "Literary Chinese"
     },
-    "364": {
+    "365": {
         "code": "zh-min-nan",
         "name": "Bân-lâm-gú",
         "site": [],
         "dir": "ltr",
         "localname": "Minnan"
     },
-    "365": {
+    "366": {
         "code": "zh-yue",
         "name": "粵語",
         "site": [],
         "dir": "ltr",
         "localname": "Cantonese"
     },
-    "366": {
+    "367": {
         "code": "zu",
         "name": "isiZulu",
         "site": [
@@ -8671,7 +8685,7 @@
         "dir": "ltr",
         "localname": "Zulu"
     },
-    "count": 1062,
+    "count": 1063,
     "specials": [
         {
             "url": "https://advisors.wikimedia.org",
