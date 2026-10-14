@@ -1053,7 +1053,7 @@
                 "url": "https://bol.wikipedia.org",
                 "dbname": "bolwiki",
                 "code": "wiki",
-                "sitename": "Wikipedia"
+                "sitename": "Wikipidiya"
             }
         ],
         "dir": "ltr",
@@ -1119,7 +1119,8 @@
                 "url": "https://bs.wiktionary.org",
                 "dbname": "bswiktionary",
                 "code": "wiktionary",
-                "sitename": "Wikirječnik"
+                "sitename": "Wikirječnik",
+                "closed": ""
             },
             {
                 "url": "https://bs.wikibooks.org",
@@ -5059,6 +5060,12 @@
                 "dbname": "mlwikisource",
                 "code": "wikisource",
                 "sitename": "വിക്കിഗ്രന്ഥശാല"
+            },
+            {
+                "url": "https://ml.wikivoyage.org",
+                "dbname": "mlwikivoyage",
+                "code": "wikivoyage",
+                "sitename": "Wikivoyage"
             }
         ],
         "dir": "ltr",
@@ -8816,7 +8823,7 @@
         "dir": "ltr",
         "localname": "Zulu"
     },
-    "count": 1072,
+    "count": 1073,
     "specials": [
         {
             "url": "https://abstract.wikipedia.org",
@@ -8829,7 +8836,7 @@
             "url": "https://advisors.wikimedia.org",
             "dbname": "advisorswiki",
             "code": "advisors",
-            "lang": "advisors",
+            "lang": "en",
             "sitename": "Advisors",
             "private": ""
         },
@@ -8853,7 +8860,7 @@
             "url": "https://am.wikimedia.org",
             "dbname": "amwikimedia",
             "code": "amwikimedia",
-            "lang": "hy",
+            "lang": "en",
             "sitename": "Վիքիմեդիա Հայաստան",
             "fishbowl": ""
         },
@@ -8861,14 +8868,14 @@
             "url": "https://ar.wikimedia.org",
             "dbname": "arwikimedia",
             "code": "arwikimedia",
-            "lang": "es",
+            "lang": "en",
             "sitename": "Wikimedia Argentina"
         },
         {
             "url": "https://arbcom-cs.wikipedia.org",
             "dbname": "arbcom_cswiki",
             "code": "arbcom-cs",
-            "lang": "cs",
+            "lang": "en",
             "sitename": "Arbitrážní výbor",
             "private": ""
         },
@@ -8876,7 +8883,7 @@
             "url": "https://arbcom-de.wikipedia.org",
             "dbname": "arbcom_dewiki",
             "code": "arbcom-de",
-            "lang": "de",
+            "lang": "en",
             "sitename": "Arbitration Committee",
             "private": ""
         },
@@ -8892,7 +8899,7 @@
             "url": "https://arbcom-fi.wikipedia.org",
             "dbname": "arbcom_fiwiki",
             "code": "arbcom-fi",
-            "lang": "fi",
+            "lang": "en",
             "sitename": "Arbitration Committee",
             "private": ""
         },
@@ -8900,7 +8907,7 @@
             "url": "https://wikipedia-it-arbcom.wikimedia.org",
             "dbname": "arbcom_itwiki",
             "code": "arbcom-it",
-            "lang": "it",
+            "lang": "en",
             "sitename": "Wikipedia",
             "private": ""
         },
@@ -8908,7 +8915,7 @@
             "url": "https://arbcom-nl.wikipedia.org",
             "dbname": "arbcom_nlwiki",
             "code": "arbcom-nl",
-            "lang": "nl",
+            "lang": "en",
             "sitename": "Arbitration Committee",
             "private": ""
         },
@@ -8916,7 +8923,7 @@
             "url": "https://wikipedia-pl-arbcom.wikimedia.org",
             "dbname": "arbcom_plwiki",
             "code": "arbcom-pl",
-            "lang": "pl",
+            "lang": "en",
             "sitename": "Komitet Arbitrażowy",
             "private": ""
         },
@@ -8924,7 +8931,7 @@
             "url": "https://arbcom-ru.wikipedia.org",
             "dbname": "arbcom_ruwiki",
             "code": "arbcom-ru",
-            "lang": "ru",
+            "lang": "en",
             "sitename": "Арбитражный комитет русской Википедии",
             "private": ""
         },
@@ -8932,7 +8939,7 @@
             "url": "https://wikipedia-zh-arbcom.wikimedia.org",
             "dbname": "arbcom_zhwiki",
             "code": "arbcom-zh",
-            "lang": "zh",
+            "lang": "en",
             "sitename": "中文维基百科仲裁委员会",
             "private": ""
         },
@@ -8948,7 +8955,7 @@
             "url": "https://az.wikimedia.org",
             "dbname": "azwikimedia",
             "code": "azwikimedia",
-            "lang": "az",
+            "lang": "en",
             "sitename": "Azərbaycan vikimediaçıları istifadəçi qrupu",
             "fishbowl": ""
         },
@@ -8956,7 +8963,7 @@
             "url": "https://bd.wikimedia.org",
             "dbname": "bdwikimedia",
             "code": "bdwikimedia",
-            "lang": "bn",
+            "lang": "en",
             "sitename": "উইকিমিডিয়া বাংলাদেশ"
         },
         {
@@ -8977,7 +8984,7 @@
             "url": "https://board.wikimedia.org",
             "dbname": "boardwiki",
             "code": "board",
-            "lang": "board",
+            "lang": "en",
             "sitename": "Board",
             "private": ""
         },
@@ -8985,7 +8992,7 @@
             "url": "https://boardgovcom.wikimedia.org",
             "dbname": "boardgovcomwiki",
             "code": "boardgovcom",
-            "lang": "boardgovcom",
+            "lang": "en",
             "sitename": "Board Governance Committee",
             "private": ""
         },
@@ -8993,7 +9000,7 @@
             "url": "https://br.wikimedia.org",
             "dbname": "brwikimedia",
             "code": "brwikimedia",
-            "lang": "pt-BR",
+            "lang": "en",
             "sitename": "Wikimedia Brasil"
         },
         {
@@ -9031,7 +9038,7 @@
             "url": "https://cn.wikimedia.org",
             "dbname": "cnwikimedia",
             "code": "cnwikimedia",
-            "lang": "zh",
+            "lang": "en",
             "sitename": "中国维基媒体用户组",
             "fishbowl": "",
             "closed": ""
@@ -9040,7 +9047,7 @@
             "url": "https://co.wikimedia.org",
             "dbname": "cowikimedia",
             "code": "cowikimedia",
-            "lang": "es",
+            "lang": "en",
             "sitename": "Wikimedia Colombia"
         },
         {
@@ -9055,7 +9062,7 @@
             "url": "https://commons.wikimedia.org",
             "dbname": "commonswiki",
             "code": "commons",
-            "lang": "commons",
+            "lang": "en",
             "sitename": "Wikimedia Commons"
         },
         {
@@ -9070,7 +9077,7 @@
             "url": "https://dk.wikimedia.org",
             "dbname": "dkwikimedia",
             "code": "dkwikimedia",
-            "lang": "da",
+            "lang": "en",
             "sitename": "Wikimedia Danmark"
         },
         {
@@ -9085,7 +9092,7 @@
             "url": "https://ec.wikimedia.org",
             "dbname": "ecwikimedia",
             "code": "ecwikimedia",
-            "lang": "es",
+            "lang": "en",
             "sitename": "Wikimedistas de Ecuador",
             "private": ""
         },
@@ -9093,7 +9100,7 @@
             "url": "https://electcom.wikimedia.org",
             "dbname": "electcomwiki",
             "code": "electcom",
-            "lang": "electcom",
+            "lang": "en",
             "sitename": "Wikimedia Elections Committee",
             "private": ""
         },
@@ -9101,7 +9108,7 @@
             "url": "https://ee.wikimedia.org",
             "dbname": "etwikimedia",
             "code": "etwikimedia",
-            "lang": "et",
+            "lang": "en",
             "sitename": "Wikimedia Eesti"
         },
         {
@@ -9124,21 +9131,21 @@
             "url": "https://fi.wikimedia.org",
             "dbname": "fiwikimedia",
             "code": "fiwikimedia",
-            "lang": "fi",
+            "lang": "en",
             "sitename": "Wikimedia Suomi"
         },
         {
             "url": "https://foundation.wikimedia.org",
             "dbname": "foundationwiki",
             "code": "foundation",
-            "lang": "foundation",
+            "lang": "en",
             "sitename": "Wikimedia Foundation Governance Wiki"
         },
         {
             "url": "https://ge.wikimedia.org",
             "dbname": "gewikimedia",
             "code": "gewikimedia",
-            "lang": "ka",
+            "lang": "en",
             "sitename": "ვიკიმედია საქართველო",
             "fishbowl": ""
         },
@@ -9146,7 +9153,7 @@
             "url": "https://gr.wikimedia.org",
             "dbname": "grwikimedia",
             "code": "grwikimedia",
-            "lang": "el",
+            "lang": "en",
             "sitename": "Wikimedia User Group Greece",
             "fishbowl": ""
         },
@@ -9162,7 +9169,7 @@
             "url": "https://hi.wikimedia.org",
             "dbname": "hiwikimedia",
             "code": "hiwikimedia",
-            "lang": "hi",
+            "lang": "en",
             "sitename": "Hindi Wikimedians User Group",
             "fishbowl": ""
         },
@@ -9170,7 +9177,7 @@
             "url": "https://id.wikimedia.org",
             "dbname": "idwikimedia",
             "code": "idwikimedia",
-            "lang": "id",
+            "lang": "en",
             "sitename": "Wikimedia Indonesia",
             "fishbowl": ""
         },
@@ -9178,7 +9185,7 @@
             "url": "https://id-internal.wikimedia.org",
             "dbname": "id_internalwikimedia",
             "code": "id-internalwikimedia",
-            "lang": "id",
+            "lang": "en",
             "sitename": "Wikimedia Indonesia (internal)",
             "private": ""
         },
@@ -9194,7 +9201,7 @@
             "url": "https://il.wikimedia.org",
             "dbname": "ilwikimedia",
             "code": "ilwikimedia",
-            "lang": "he",
+            "lang": "en",
             "sitename": "ויקימדיה",
             "private": ""
         },
@@ -9209,7 +9216,7 @@
             "url": "https://internal.wikimedia.org",
             "dbname": "internalwiki",
             "code": "internal",
-            "lang": "internal",
+            "lang": "en",
             "sitename": "Internal",
             "private": "",
             "closed": ""
@@ -9218,7 +9225,7 @@
             "url": "https://wikitech.wikimedia.org",
             "dbname": "labswiki",
             "code": "labs",
-            "lang": "labs",
+            "lang": "en",
             "sitename": "Wikipedia"
         },
         {
@@ -9233,14 +9240,14 @@
             "url": "https://login.wikimedia.org",
             "dbname": "loginwiki",
             "code": "login",
-            "lang": "login",
+            "lang": "en",
             "sitename": "Wikimedia Login Wiki"
         },
         {
             "url": "https://mai.wikimedia.org",
             "dbname": "maiwikimedia",
             "code": "maiwikimedia",
-            "lang": "mai",
+            "lang": "en",
             "sitename": "मैथिली विकिमिडियन्स",
             "fishbowl": ""
         },
@@ -9248,28 +9255,28 @@
             "url": "https://www.mediawiki.org",
             "dbname": "mediawikiwiki",
             "code": "mediawiki",
-            "lang": "mediawiki",
+            "lang": "en",
             "sitename": "MediaWiki"
         },
         {
             "url": "https://meta.wikimedia.org",
             "dbname": "metawiki",
             "code": "meta",
-            "lang": "meta",
+            "lang": "en",
             "sitename": "Meta-Wiki"
         },
         {
             "url": "https://mk.wikimedia.org",
             "dbname": "mkwikimedia",
             "code": "mkwikimedia",
-            "lang": "mk",
+            "lang": "en",
             "sitename": "Викимедија Македонија"
         },
         {
             "url": "https://movementroles.wikimedia.org",
             "dbname": "movementroleswiki",
             "code": "movementroles",
-            "lang": "movementroles",
+            "lang": "en",
             "sitename": "Movement Roles",
             "private": ""
         },
@@ -9277,7 +9284,7 @@
             "url": "https://mx.wikimedia.org",
             "dbname": "mxwikimedia",
             "code": "mxwikimedia",
-            "lang": "es",
+            "lang": "en",
             "sitename": "Wikimedia México"
         },
         {
@@ -9292,21 +9299,21 @@
             "url": "https://nl.wikimedia.org",
             "dbname": "nlwikimedia",
             "code": "nlwikimedia",
-            "lang": "nl",
+            "lang": "en",
             "sitename": "Wikimedia"
         },
         {
             "url": "https://no.wikimedia.org",
             "dbname": "nowikimedia",
             "code": "nowikimedia",
-            "lang": "nb",
+            "lang": "en",
             "sitename": "Wikimedia Norge"
         },
         {
             "url": "https://noboard-chapters.wikimedia.org",
             "dbname": "noboard_chapterswikimedia",
             "code": "noboard-chapterswikimedia",
-            "lang": "nb",
+            "lang": "en",
             "sitename": "Wikimedia Norway Internal Board",
             "private": ""
         },
@@ -9314,7 +9321,7 @@
             "url": "https://nostalgia.wikipedia.org",
             "dbname": "nostalgiawiki",
             "code": "nostalgia",
-            "lang": "nostalgia",
+            "lang": "en",
             "sitename": "Wikipedia",
             "fishbowl": ""
         },
@@ -9361,7 +9368,7 @@
             "url": "https://outreach.wikimedia.org",
             "dbname": "outreachwiki",
             "code": "outreach",
-            "lang": "outreach",
+            "lang": "en",
             "sitename": "Outreach Wiki"
         },
         {
@@ -9376,7 +9383,7 @@
             "url": "https://pl.wikimedia.org",
             "dbname": "plwikimedia",
             "code": "plwikimedia",
-            "lang": "pl",
+            "lang": "en",
             "sitename": "Wikimedia"
         },
         {
@@ -9391,14 +9398,14 @@
             "url": "https://pt.wikimedia.org",
             "dbname": "ptwikimedia",
             "code": "ptwikimedia",
-            "lang": "pt",
+            "lang": "en",
             "sitename": "Wikimedia Portugal"
         },
         {
             "url": "https://punjabi.wikimedia.org",
             "dbname": "punjabiwikimedia",
             "code": "punjabiwikimedia",
-            "lang": "pa",
+            "lang": "en",
             "sitename": "Punjabi Wikimedians",
             "fishbowl": ""
         },
@@ -9414,7 +9421,7 @@
             "url": "https://romd.wikimedia.org",
             "dbname": "romdwikimedia",
             "code": "romdwikimedia",
-            "lang": "ro",
+            "lang": "en",
             "sitename": "Wikimedia",
             "fishbowl": ""
         },
@@ -9422,7 +9429,7 @@
             "url": "https://rs.wikimedia.org",
             "dbname": "rswikimedia",
             "code": "rswikimedia",
-            "lang": "sr",
+            "lang": "en",
             "sitename": "Викимедија",
             "fishbowl": ""
         },
@@ -9430,14 +9437,14 @@
             "url": "https://ru.wikimedia.org",
             "dbname": "ruwikimedia",
             "code": "ruwikimedia",
-            "lang": "ru",
+            "lang": "en",
             "sitename": "Викимедиа"
         },
         {
             "url": "https://se.wikimedia.org",
             "dbname": "sewikimedia",
             "code": "sewikimedia",
-            "lang": "sv",
+            "lang": "en",
             "sitename": "Wikimedia"
         },
         {
@@ -9453,14 +9460,14 @@
             "url": "https://wikisource.org",
             "dbname": "sourceswiki",
             "code": "sources",
-            "lang": "sources",
+            "lang": "en",
             "sitename": "Wikisource"
         },
         {
             "url": "https://spcom.wikimedia.org",
             "dbname": "spcomwiki",
             "code": "spcom",
-            "lang": "spcom",
+            "lang": "en",
             "sitename": "Spcom",
             "private": "",
             "closed": ""
@@ -9469,7 +9476,7 @@
             "url": "https://species.wikimedia.org",
             "dbname": "specieswiki",
             "code": "species",
-            "lang": "species",
+            "lang": "en",
             "sitename": "Wikispecies"
         },
         {
@@ -9492,7 +9499,7 @@
             "url": "https://sysop-it.wikipedia.org",
             "dbname": "sysop_itwiki",
             "code": "sysop-it",
-            "lang": "it",
+            "lang": "en",
             "sitename": "Italian Wikipedia sysops wiki",
             "private": ""
         },
@@ -9500,7 +9507,7 @@
             "url": "https://wikipedia-pl-sysop.wikimedia.org",
             "dbname": "sysop_plwiki",
             "code": "sysop-pl",
-            "lang": "pl",
+            "lang": "en",
             "sitename": "Wiki administratorów polskojęzycznej Wikipedii",
             "private": ""
         },
@@ -9508,7 +9515,7 @@
             "url": "https://techconduct.wikimedia.org",
             "dbname": "techconductwiki",
             "code": "techconduct",
-            "lang": "techconduct",
+            "lang": "en",
             "sitename": "CoC committee",
             "private": ""
         },
@@ -9538,21 +9545,21 @@
             "url": "https://test-commons.wikimedia.org",
             "dbname": "testcommonswiki",
             "code": "testcommons",
-            "lang": "testcommons",
+            "lang": "en",
             "sitename": "Test Wikimedia Commons"
         },
         {
             "url": "https://test.wikidata.org",
             "dbname": "testwikidatawiki",
             "code": "testwikidata",
-            "lang": "testwikidata",
+            "lang": "en",
             "sitename": "Wikipedia"
         },
         {
             "url": "https://th.wikimedia.org",
             "dbname": "thwikimedia",
             "code": "thwikimedia",
-            "lang": "th",
+            "lang": "en",
             "sitename": "Wikimedia"
         },
         {
@@ -9567,7 +9574,7 @@
             "url": "https://tr.wikimedia.org",
             "dbname": "trwikimedia",
             "code": "trwikimedia",
-            "lang": "tr",
+            "lang": "en",
             "sitename": "Wikimedia Türkiye"
         },
         {
@@ -9591,7 +9598,7 @@
             "url": "https://ua.wikimedia.org",
             "dbname": "uawikimedia",
             "code": "uawikimedia",
-            "lang": "uk",
+            "lang": "en",
             "sitename": "Вікімедіа Україна"
         },
         {
@@ -9606,7 +9613,7 @@
             "url": "https://ve.wikimedia.org",
             "dbname": "vewikimedia",
             "code": "vewikimedia",
-            "lang": "es",
+            "lang": "en",
             "sitename": "Wikimedia",
             "fishbowl": ""
         },
@@ -9622,7 +9629,7 @@
             "url": "https://wb.wikimedia.org",
             "dbname": "wbwikimedia",
             "code": "wbwikimedia",
-            "lang": "bn",
+            "lang": "en",
             "sitename": "West Bengal Wikimedians",
             "fishbowl": ""
         },
@@ -9638,7 +9645,7 @@
             "url": "https://www.wikidata.org",
             "dbname": "wikidatawiki",
             "code": "wikidata",
-            "lang": "wikidata",
+            "lang": "en",
             "sitename": "Wikipedia"
         },
         {
@@ -9652,14 +9659,14 @@
             "url": "https://wikimania.wikimedia.org",
             "dbname": "wikimaniawiki",
             "code": "wikimania",
-            "lang": "wikimania",
+            "lang": "en",
             "sitename": "Wikipedia"
         },
         {
             "url": "https://wikimania2005.wikimedia.org",
             "dbname": "wikimania2005wiki",
             "code": "wikimania2005",
-            "lang": "wikimania2005",
+            "lang": "en",
             "sitename": "Wikipedia",
             "closed": ""
         },
@@ -9667,7 +9674,7 @@
             "url": "https://wikimania2006.wikimedia.org",
             "dbname": "wikimania2006wiki",
             "code": "wikimania2006",
-            "lang": "wikimania2006",
+            "lang": "en",
             "sitename": "Wikipedia",
             "closed": ""
         },
@@ -9675,7 +9682,7 @@
             "url": "https://wikimania2007.wikimedia.org",
             "dbname": "wikimania2007wiki",
             "code": "wikimania2007",
-            "lang": "wikimania2007",
+            "lang": "en",
             "sitename": "Wikipedia",
             "closed": ""
         },
@@ -9683,7 +9690,7 @@
             "url": "https://wikimania2008.wikimedia.org",
             "dbname": "wikimania2008wiki",
             "code": "wikimania2008",
-            "lang": "wikimania2008",
+            "lang": "en",
             "sitename": "Wikipedia",
             "closed": ""
         },
@@ -9691,7 +9698,7 @@
             "url": "https://wikimania2009.wikimedia.org",
             "dbname": "wikimania2009wiki",
             "code": "wikimania2009",
-            "lang": "wikimania2009",
+            "lang": "en",
             "sitename": "Wikipedia",
             "closed": ""
         },
@@ -9699,7 +9706,7 @@
             "url": "https://wikimania2010.wikimedia.org",
             "dbname": "wikimania2010wiki",
             "code": "wikimania2010",
-            "lang": "wikimania2010",
+            "lang": "en",
             "sitename": "Wikipedia",
             "closed": ""
         },
@@ -9707,7 +9714,7 @@
             "url": "https://wikimania2011.wikimedia.org",
             "dbname": "wikimania2011wiki",
             "code": "wikimania2011",
-            "lang": "wikimania2011",
+            "lang": "en",
             "sitename": "Wikipedia",
             "closed": ""
         },
@@ -9715,7 +9722,7 @@
             "url": "https://wikimania2012.wikimedia.org",
             "dbname": "wikimania2012wiki",
             "code": "wikimania2012",
-            "lang": "wikimania2012",
+            "lang": "en",
             "sitename": "Wikipedia",
             "closed": ""
         },
@@ -9723,7 +9730,7 @@
             "url": "https://wikimania2013.wikimedia.org",
             "dbname": "wikimania2013wiki",
             "code": "wikimania2013",
-            "lang": "wikimania2013",
+            "lang": "en",
             "sitename": "Wikipedia",
             "closed": ""
         },
@@ -9731,7 +9738,7 @@
             "url": "https://wikimania2014.wikimedia.org",
             "dbname": "wikimania2014wiki",
             "code": "wikimania2014",
-            "lang": "wikimania2014",
+            "lang": "en",
             "sitename": "Wikipedia",
             "closed": ""
         },
@@ -9739,7 +9746,7 @@
             "url": "https://wikimania2015.wikimedia.org",
             "dbname": "wikimania2015wiki",
             "code": "wikimania2015",
-            "lang": "wikimania2015",
+            "lang": "en",
             "sitename": "Wikipedia",
             "closed": ""
         },
@@ -9747,7 +9754,7 @@
             "url": "https://wikimania2016.wikimedia.org",
             "dbname": "wikimania2016wiki",
             "code": "wikimania2016",
-            "lang": "wikimania2016",
+            "lang": "en",
             "sitename": "Wikipedia",
             "closed": ""
         },
@@ -9755,7 +9762,7 @@
             "url": "https://wikimania2017.wikimedia.org",
             "dbname": "wikimania2017wiki",
             "code": "wikimania2017",
-            "lang": "wikimania2017",
+            "lang": "en",
             "sitename": "Wikipedia",
             "closed": ""
         },
@@ -9763,7 +9770,7 @@
             "url": "https://wikimania2018.wikimedia.org",
             "dbname": "wikimania2018wiki",
             "code": "wikimania2018",
-            "lang": "wikimania2018",
+            "lang": "en",
             "sitename": "Wikipedia",
             "closed": ""
         },
